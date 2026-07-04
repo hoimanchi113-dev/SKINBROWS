@@ -18,7 +18,7 @@ require __DIR__ . '/../../assets/partials/header.php';
  </div>
  </div>
  <div style="height:280px;border-radius:8px 8px 0 0;overflow:hidden">
- <img src="https://i.ibb.co/rRpPnQKX/h-nh-nh-tr-c-v-sau-i-u-tr-da-b-k-ch-ng-n-i-m-n-r-p.png" alt="Before and after recurring acne treatment at DIVA Skin Clinic Poipet" style="width:100%;height:100%;object-fit:cover">
+ <img src="https://i.ibb.co/rRpPnQKX/h-nh-nh-tr-c-v-sau-i-u-tr-da-b-k-ch-ng-n-i-m-n-r-p.png" alt="Before and after recurring acne treatment at DIVA Skin Clinic Poipet" style="width:100%;height:100%;object-fit:cover" referrerpolicy="no-referrer">
  </div>
  </div>
  </div>
@@ -65,7 +65,7 @@ require __DIR__ . '/../../assets/partials/header.php';
  <p>Hormonal acne is one of the most common types at DIVA Skin Clinic Poipet — and one of the hardest to treat with topical products alone. Covered in detail in Section 3.</p>
 
  <figure style="margin:32px 0">
- <img src="https://i.ibb.co/Pzf0gRVT/h-nh-nh-so-s-nh-tr-c-v-sau-khi-i-u-tr-th-m-v-m-n-l-ng.jpg" alt="Before and after acne and dark mark comparison at DIVA Skin Clinic Poipet" style="width:100%;border-radius:8px;display:block">
+ <img src="https://i.ibb.co/Pzf0gRVT/h-nh-nh-so-s-nh-tr-c-v-sau-khi-i-u-tr-th-m-v-m-n-l-ng.jpg" alt="Before and after acne and dark mark comparison at DIVA Skin Clinic Poipet" style="width:100%;border-radius:8px;display:block" referrerpolicy="no-referrer">
  </figure>
 
  <h2 id="s3">3. Hormonal Acne — The Root That Skincare Cannot Fix Alone</h2>
@@ -95,7 +95,7 @@ require __DIR__ . '/../../assets/partials/header.php';
  <p>Poipet has a unique lifestyle environment. Many clients work late hours in gaming, entertainment, and trading industries — with schedules involving late nights, irregular meals, high stress, and frequent social events. These lifestyle factors directly contribute to recurring acne at DIVA Skin Clinic Poipet. Recognizing personal triggers is the first step toward managing them.</p>
 
  <figure style="margin:32px 0">
- <img src="https://i.ibb.co/Z6zVJsLQ/h-nh-nh-tr-c-v-sau-i-u-tr-th-m-n-ch.jpg" alt="Before and after underarm dark mark treatment — body acne and skin at DIVA Poipet" style="width:100%;border-radius:8px;display:block">
+ <img src="https://i.ibb.co/Z6zVJsLQ/h-nh-nh-tr-c-v-sau-i-u-tr-th-m-n-ch.jpg" alt="Before and after underarm dark mark treatment — body acne and skin at DIVA Poipet" style="width:100%;border-radius:8px;display:block" referrerpolicy="no-referrer">
  <!-- IMAGE CHECK: please review, selected as treatment result visual -->
  </figure>
 
@@ -153,16 +153,16 @@ require __DIR__ . '/../../assets/partials/header.php';
  <div class="container">
  <div style="font-size:.7rem;letter-spacing:.18em;text-transform:uppercase;color:var(--gold);margin-bottom:20px;text-align:center">Gallery — DIVA Skin Clinic Poipet</div>
  <div style="display:grid;grid-template-columns:repeat(4,1fr);gap:12px">
- <img src="https://i.ibb.co/VWX9QGLT/h-nh-nh-tr-c-sau-i-u-tr-m-n-n-v-da-kh-ng-u-m-u.jpg" alt="DIVA Skin Clinic Poipet" loading="lazy" style="width:100%;border-radius:8px;object-fit:cover;height:180px;display:block">
- <img src="https://i.ibb.co/PzcCN9LX/h-nh-nh-i-u-tr-l-ch-n-l-ng-to-da-kh-ng-u-m-u-tr-c-v-sau-3-bu-i.png" alt="DIVA Skin Clinic Poipet" loading="lazy" style="width:100%;border-radius:8px;object-fit:cover;height:180px;display:block">
- <img src="https://i.ibb.co/20Nvwv7m/nen-xuat-hien-o-trang-chinh-nh-i-u-tr-th-m-s-u-m-n-l-ch-n-l-ng-to-v-da-kh-ng-u-m-u-tr-c-sau.png" alt="DIVA Skin Clinic Poipet" loading="lazy" style="width:100%;border-radius:8px;object-fit:cover;height:180px;display:block">
- <img src="https://i.ibb.co/Kck5TjRw/h-nh-nh-tr-c-sau-i-u-tr-m-n-vi-m-l-ch-n-l-ng-to-v-s-o-r-cho-kh-ch-h-ng-nam.jpg" alt="DIVA Skin Clinic Poipet" loading="lazy" style="width:100%;border-radius:8px;object-fit:cover;height:180px;display:block">
- <img src="https://i.ibb.co/tpLHFB4X/h-nh-nh-i-u-tr-da-kh-ng-u-m-u-m-n-n-li-ti-l-ch-n-l-ng-to.jpg" alt="DIVA Skin Clinic Poipet" loading="lazy" style="width:100%;border-radius:8px;object-fit:cover;height:180px;display:block">
- <img src="https://i.ibb.co/bgbtkWt7/bisotin-jnjection-ti-m-b-p-tr-m-n-i-lo-n.png" alt="DIVA Skin Clinic Poipet" loading="lazy" style="width:100%;border-radius:8px;object-fit:cover;height:180px;display:block">
- <img src="https://i.ibb.co/rfXMxxRT/h-nh-nh-k-t-qu-tr-c-sau-i-u-tr-da-b-t-ng-s-c-t.jpg" alt="DIVA Skin Clinic Poipet" loading="lazy" style="width:100%;border-radius:8px;object-fit:cover;height:180px;display:block">
- <img src="https://i.ibb.co/HDkhs236/h-nh-nh-k-t-qu-tr-c-sau-i-u-tr-m-n-li-ti-da-kh-ng-u-m-u-l-ch-n-l-ng-to.jpg" alt="DIVA Skin Clinic Poipet" loading="lazy" style="width:100%;border-radius:8px;object-fit:cover;height:180px;display:block">
- <img src="https://i.ibb.co/nsHkcYkz/h-nh-nh-tr-c-sau-i-u-tr-m-n-u-en.jpg" alt="DIVA Skin Clinic Poipet" loading="lazy" style="width:100%;border-radius:8px;object-fit:cover;height:180px;display:block">
- <img src="https://i.ibb.co/Vp08gr2t/h-nh-nh-k-t-qu-tr-c-sau-i-u-tr-thu-nh-l-ch-n-l-ng.jpg" alt="DIVA Skin Clinic Poipet" loading="lazy" style="width:100%;border-radius:8px;object-fit:cover;height:180px;display:block">
+ <img src="https://i.ibb.co/VWX9QGLT/h-nh-nh-tr-c-sau-i-u-tr-m-n-n-v-da-kh-ng-u-m-u.jpg" alt="DIVA Skin Clinic Poipet" loading="lazy" style="width:100%;border-radius:8px;object-fit:cover;height:180px;display:block" referrerpolicy="no-referrer">
+ <img src="https://i.ibb.co/PzcCN9LX/h-nh-nh-i-u-tr-l-ch-n-l-ng-to-da-kh-ng-u-m-u-tr-c-v-sau-3-bu-i.png" alt="DIVA Skin Clinic Poipet" loading="lazy" style="width:100%;border-radius:8px;object-fit:cover;height:180px;display:block" referrerpolicy="no-referrer">
+ <img src="https://i.ibb.co/20Nvwv7m/nen-xuat-hien-o-trang-chinh-nh-i-u-tr-th-m-s-u-m-n-l-ch-n-l-ng-to-v-da-kh-ng-u-m-u-tr-c-sau.png" alt="DIVA Skin Clinic Poipet" loading="lazy" style="width:100%;border-radius:8px;object-fit:cover;height:180px;display:block" referrerpolicy="no-referrer">
+ <img src="https://i.ibb.co/Kck5TjRw/h-nh-nh-tr-c-sau-i-u-tr-m-n-vi-m-l-ch-n-l-ng-to-v-s-o-r-cho-kh-ch-h-ng-nam.jpg" alt="DIVA Skin Clinic Poipet" loading="lazy" style="width:100%;border-radius:8px;object-fit:cover;height:180px;display:block" referrerpolicy="no-referrer">
+ <img src="https://i.ibb.co/tpLHFB4X/h-nh-nh-i-u-tr-da-kh-ng-u-m-u-m-n-n-li-ti-l-ch-n-l-ng-to.jpg" alt="DIVA Skin Clinic Poipet" loading="lazy" style="width:100%;border-radius:8px;object-fit:cover;height:180px;display:block" referrerpolicy="no-referrer">
+ <img src="https://i.ibb.co/bgbtkWt7/bisotin-jnjection-ti-m-b-p-tr-m-n-i-lo-n.png" alt="DIVA Skin Clinic Poipet" loading="lazy" style="width:100%;border-radius:8px;object-fit:cover;height:180px;display:block" referrerpolicy="no-referrer">
+ <img src="https://i.ibb.co/rfXMxxRT/h-nh-nh-k-t-qu-tr-c-sau-i-u-tr-da-b-t-ng-s-c-t.jpg" alt="DIVA Skin Clinic Poipet" loading="lazy" style="width:100%;border-radius:8px;object-fit:cover;height:180px;display:block" referrerpolicy="no-referrer">
+ <img src="https://i.ibb.co/HDkhs236/h-nh-nh-k-t-qu-tr-c-sau-i-u-tr-m-n-li-ti-da-kh-ng-u-m-u-l-ch-n-l-ng-to.jpg" alt="DIVA Skin Clinic Poipet" loading="lazy" style="width:100%;border-radius:8px;object-fit:cover;height:180px;display:block" referrerpolicy="no-referrer">
+ <img src="https://i.ibb.co/nsHkcYkz/h-nh-nh-tr-c-sau-i-u-tr-m-n-u-en.jpg" alt="DIVA Skin Clinic Poipet" loading="lazy" style="width:100%;border-radius:8px;object-fit:cover;height:180px;display:block" referrerpolicy="no-referrer">
+ <img src="https://i.ibb.co/Vp08gr2t/h-nh-nh-k-t-qu-tr-c-sau-i-u-tr-thu-nh-l-ch-n-l-ng.jpg" alt="DIVA Skin Clinic Poipet" loading="lazy" style="width:100%;border-radius:8px;object-fit:cover;height:180px;display:block" referrerpolicy="no-referrer">
  </div>
  </div>
 </section>

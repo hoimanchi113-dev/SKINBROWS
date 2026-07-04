@@ -21,7 +21,7 @@ require __DIR__ . '/../../assets/partials/header.php';
  <div style="height:280px;border-radius:8px 8px 0 0;overflow:hidden">
  <img src="https://i.ibb.co/Kzf4BFws/h-nh-nh-b-t-ti-m-gi-m-c-n-Nh-t-B-n.png"
  alt="Injectable weight management pen at DIVA Skin Clinic Poipet"
- style="width:100%;height:100%;object-fit:cover">
+ style="width:100%;height:100%;object-fit:cover" referrerpolicy="no-referrer">
  </div>
  </div>
  </div>
@@ -71,7 +71,7 @@ require __DIR__ . '/../../assets/partials/header.php';
  <figure style="margin:32px 0">
  <img src="https://i.ibb.co/Q3CQ20zv/h-nh-nh-kh-ch-h-ng-tr-c-v-sau-khi-gi-m-c-n.jpg"
  alt="Before and after weight loss results at DIVA Skin Clinic Poipet"
- style="width:100%;border-radius:8px;display:block">
+ style="width:100%;border-radius:8px;display:block" referrerpolicy="no-referrer">
  </figure>
 
  <h2 id="s3">3. What to Expect — Realistic Outcomes</h2>
@@ -95,7 +95,7 @@ require __DIR__ . '/../../assets/partials/header.php';
  <figure style="margin:32px 0">
  <img src="https://i.ibb.co/QvDnR1tK/h-nh-nh-k-t-qu-tr-c-sau-gi-m-c-n-to-n-th-n-IMG-2017.jpg"
  alt="Full body before and after weight management results at DIVA Skin Clinic Poipet"
- style="width:100%;border-radius:8px;display:block">
+ style="width:100%;border-radius:8px;display:block" referrerpolicy="no-referrer">
  </figure>
 
  <h2 id="s4">4. Safety, Screening and Side Effects</h2>
@@ -146,7 +146,7 @@ require __DIR__ . '/../../assets/partials/header.php';
  <div style="font-size:.7rem;letter-spacing:.18em;text-transform:uppercase;color:var(--gold);margin-bottom:20px">Related Articles</div>
  <div class="blog-related-grid">
  <a href="/blog/iv-drip-whitening-infusion-poipet/" class="blog-related-card"><span class="label" style="font-size:.65rem">Wellness</span><h4>IV Drip &amp; Whitening Infusion</h4><p>Glutathione, Vitamin C and wellness.</p></a>
- <a href="/wellness-brightening/" class="blog-related-card"><span class="label" style="font-size:.65rem">Service</span><h4>Wellness &amp; Brightening</h4><p>Full wellness program options.</p></a>
+ <a href="/services/" class="blog-related-card"><span class="label" style="font-size:.65rem">Service</span><h4>Wellness &amp; Brightening</h4><p>Full wellness program options.</p></a>
  <a href="/blog/body-beauty-hair-removal-poipet/" class="blog-related-card"><span class="label" style="font-size:.65rem">Body Treatment</span><h4>Body Beauty &amp; Hair Removal</h4><p>Body treatment options in Poipet.</p></a>
  </div>
  </div>
@@ -159,14 +159,14 @@ require __DIR__ . '/../../assets/partials/header.php';
  <div class="container">
  <div style="font-size:.7rem;letter-spacing:.18em;text-transform:uppercase;color:var(--gold);margin-bottom:20px;text-align:center">Gallery — DIVA Skin Clinic Poipet</div>
  <div style="display:grid;grid-template-columns:repeat(4,1fr);gap:12px">
- <img src="https://i.ibb.co/Tq1bdkCV/h-nh-nh-s-d-ng-b-t-ti-m-gi-m-c-n-b-ng.png" alt="DIVA Skin Clinic Poipet" loading="lazy" style="width:100%;border-radius:8px;object-fit:cover;height:180px;display:block">
- <img src="https://i.ibb.co/qYyvGWWR/b-t-ti-m-gi-m-c-n-kh-ch-t-ti-m-v-tr-b-ng.jpg" alt="DIVA Skin Clinic Poipet" loading="lazy" style="width:100%;border-radius:8px;object-fit:cover;height:180px;display:block">
- <img src="https://i.ibb.co/JR5mMn1m/h-nh-nh-tim-gi-m-m-n-ng-c-m.png" alt="DIVA Skin Clinic Poipet" loading="lazy" style="width:100%;border-radius:8px;object-fit:cover;height:180px;display:block">
- <img src="https://i.ibb.co/Y4kp4LqJ/IMG-6498.png" alt="DIVA Skin Clinic Poipet" loading="lazy" style="width:100%;border-radius:8px;object-fit:cover;height:180px;display:block">
- <img src="https://i.ibb.co/9mBWW4Vm/h-nh-nh-tr-c-sau-botox-thon-g-n-b-p-tay.jpg" alt="DIVA Skin Clinic Poipet" loading="lazy" style="width:100%;border-radius:8px;object-fit:cover;height:180px;display:block">
- <img src="https://i.ibb.co/8gSZDL1q/IMG-6102.jpg" alt="DIVA Skin Clinic Poipet" loading="lazy" style="width:100%;border-radius:8px;object-fit:cover;height:180px;display:block">
- <img src="https://i.ibb.co/QjhMfgNk/IMG-5704.jpg" alt="DIVA Skin Clinic Poipet" loading="lazy" style="width:100%;border-radius:8px;object-fit:cover;height:180px;display:block">
- <img src="https://i.ibb.co/r22bqCKc/h-nh-nh-tim-gi-m-m-b-p-tay.jpg" alt="DIVA Skin Clinic Poipet" loading="lazy" style="width:100%;border-radius:8px;object-fit:cover;height:180px;display:block">
+ <img src="https://i.ibb.co/Tq1bdkCV/h-nh-nh-s-d-ng-b-t-ti-m-gi-m-c-n-b-ng.png" alt="DIVA Skin Clinic Poipet" loading="lazy" style="width:100%;border-radius:8px;object-fit:cover;height:180px;display:block" referrerpolicy="no-referrer">
+ <img src="https://i.ibb.co/qYyvGWWR/b-t-ti-m-gi-m-c-n-kh-ch-t-ti-m-v-tr-b-ng.jpg" alt="DIVA Skin Clinic Poipet" loading="lazy" style="width:100%;border-radius:8px;object-fit:cover;height:180px;display:block" referrerpolicy="no-referrer">
+ <img src="https://i.ibb.co/JR5mMn1m/h-nh-nh-tim-gi-m-m-n-ng-c-m.png" alt="DIVA Skin Clinic Poipet" loading="lazy" style="width:100%;border-radius:8px;object-fit:cover;height:180px;display:block" referrerpolicy="no-referrer">
+ <img src="https://i.ibb.co/Y4kp4LqJ/IMG-6498.png" alt="DIVA Skin Clinic Poipet" loading="lazy" style="width:100%;border-radius:8px;object-fit:cover;height:180px;display:block" referrerpolicy="no-referrer">
+ <img src="https://i.ibb.co/9mBWW4Vm/h-nh-nh-tr-c-sau-botox-thon-g-n-b-p-tay.jpg" alt="DIVA Skin Clinic Poipet" loading="lazy" style="width:100%;border-radius:8px;object-fit:cover;height:180px;display:block" referrerpolicy="no-referrer">
+ <img src="https://i.ibb.co/8gSZDL1q/IMG-6102.jpg" alt="DIVA Skin Clinic Poipet" loading="lazy" style="width:100%;border-radius:8px;object-fit:cover;height:180px;display:block" referrerpolicy="no-referrer">
+ <img src="https://i.ibb.co/QjhMfgNk/IMG-5704.jpg" alt="DIVA Skin Clinic Poipet" loading="lazy" style="width:100%;border-radius:8px;object-fit:cover;height:180px;display:block" referrerpolicy="no-referrer">
+ <img src="https://i.ibb.co/r22bqCKc/h-nh-nh-tim-gi-m-m-b-p-tay.jpg" alt="DIVA Skin Clinic Poipet" loading="lazy" style="width:100%;border-radius:8px;object-fit:cover;height:180px;display:block" referrerpolicy="no-referrer">
  </div>
  </div>
 </section>

@@ -71,7 +71,7 @@ require __DIR__ . '/../assets/partials/header.php';
         <div class="video-card" style="display:flex;flex-direction:column;gap:0">
           <a href="<?php echo $v[2]; ?>" target="_blank" rel="noopener" style="text-decoration:none">
             <div class="video-thumb">
-              <img src="https://img.youtube.com/vi/<?php echo $v[1]; ?>/mqdefault.jpg"
+              <img src="https://img.youtube.com/vi/<?php echo $v[1]; ?>/mqdefault.jpg" referrerpolicy="no-referrer"
                    alt="<?php echo htmlspecialchars(html_entity_decode($v[0])); ?>"
                    referrerpolicy="no-referrer" loading="lazy">
               <div class="video-play">

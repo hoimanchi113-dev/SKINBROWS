@@ -55,7 +55,7 @@ require __DIR__ . '/../assets/partials/header.php';
 
     <div style="margin-top:40px;padding-top:40px;border-top:1px solid var(--border)">
       <span class="label" style="display:block;margin-bottom:16px">Related Blog Articles</span>
-      <div style="display:flex;flex-direction:column;gap:8px"><a href="/blog/body-beauty-hair-removal-poipet/" style="font-size:.85rem;color:var(--text-muted);text-decoration:none">→ Body Beauty and Hair Removal Guide</a><a href="/blog/aftercare-support/" style="font-size:.85rem;color:var(--text-muted);text-decoration:none">→ Aftercare & Support</a></div>
+      <div style="display:flex;flex-direction:column;gap:8px"><a href="/blog/body-beauty-hair-removal-poipet/" style="font-size:.85rem;color:var(--text-muted);text-decoration:none">→ Body Beauty and Hair Removal Guide</a><a href="/aftercare-support/" style="font-size:.85rem;color:var(--text-muted);text-decoration:none">→ Aftercare & Support</a></div>
     </div>
   </div>
 </section>

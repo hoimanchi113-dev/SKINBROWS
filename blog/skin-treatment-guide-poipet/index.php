@@ -21,7 +21,7 @@ require __DIR__ . '/../../assets/partials/header.php';
  <div style="height:280px;border-radius:8px 8px 0 0;overflow:hidden">
  <img src="https://i.ibb.co/231XLx89/h-nh-nh-gi-ng-va-ph-ng-i-u-tr.jpg"
  alt="Treatment room at DIVA Skin Clinic Poipet"
- style="width:100%;height:100%;object-fit:cover">
+ style="width:100%;height:100%;object-fit:cover" referrerpolicy="no-referrer">
  </div>
  </div>
  </div>
@@ -71,7 +71,7 @@ require __DIR__ . '/../../assets/partials/header.php';
  <figure style="margin:32px 0">
  <img src="https://i.ibb.co/YB0QnwTR/h-nh-nh-tr-c-c-a-ch-p-g-n-c-a-c-a-diva-poipet.png"
  alt="DIVA Skin Clinic Poipet entrance"
- style="width:100%;border-radius:8px;display:block">
+ style="width:100%;border-radius:8px;display:block" referrerpolicy="no-referrer">
  </figure>
 
  <h2 id="s3">3. Is Your Skin Ready for Treatment?</h2>
@@ -95,7 +95,7 @@ require __DIR__ . '/../../assets/partials/header.php';
  <figure style="margin:32px 0">
  <img src="https://i.ibb.co/gMmsC0FT/IMG-5022.jpg"
  alt="Consultation and skin assessment at DIVA Skin Clinic Poipet"
- style="width:100%;border-radius:8px;display:block">
+ style="width:100%;border-radius:8px;display:block" referrerpolicy="no-referrer">
  <!-- IMAGE CHECK: please review this image, selected as clinic environment visual -->
  </figure>
 
@@ -145,16 +145,16 @@ require __DIR__ . '/../../assets/partials/header.php';
  <div class="container">
  <div style="font-size:.7rem;letter-spacing:.18em;text-transform:uppercase;color:var(--gold);margin-bottom:20px;text-align:center">Gallery — DIVA Skin Clinic Poipet</div>
  <div style="display:grid;grid-template-columns:repeat(4,1fr);gap:12px">
- <img src="https://i.ibb.co/KjJccQbS/temp-image-F56-DC45-E-97-EE-43-EA-8-D57-B8-A0-A1-DF691-D-Original.jpg" alt="DIVA Skin Clinic Poipet" loading="lazy" style="width:100%;border-radius:8px;object-fit:cover;height:180px;display:block">
- <img src="https://i.ibb.co/kVdq8Td7/29-B204-E0-80-B4-4-F25-B3-BA-9-A4539-A53-B30-Original.jpg" alt="DIVA Skin Clinic Poipet" loading="lazy" style="width:100%;border-radius:8px;object-fit:cover;height:180px;display:block">
- <img src="https://i.ibb.co/8J6Dgx3/IMG-0529-Original.jpg" alt="DIVA Skin Clinic Poipet" loading="lazy" style="width:100%;border-radius:8px;object-fit:cover;height:180px;display:block">
- <img src="https://i.ibb.co/JR00XfP8/IMG-0526-Original.jpg" alt="DIVA Skin Clinic Poipet" loading="lazy" style="width:100%;border-radius:8px;object-fit:cover;height:180px;display:block">
- <img src="https://i.ibb.co/SX9Vc6Pt/IMG-2878-Original.jpg" alt="DIVA Skin Clinic Poipet" loading="lazy" style="width:100%;border-radius:8px;object-fit:cover;height:180px;display:block">
- <img src="https://i.ibb.co/JFRBJSsC/IMG-5604.png" alt="DIVA Skin Clinic Poipet" loading="lazy" style="width:100%;border-radius:8px;object-fit:cover;height:180px;display:block">
- <img src="https://i.ibb.co/KcB2kVcx/IMG-5526.jpg" alt="DIVA Skin Clinic Poipet" loading="lazy" style="width:100%;border-radius:8px;object-fit:cover;height:180px;display:block">
- <img src="https://i.ibb.co/xS69Cr2J/IMG-4315-Original.jpg" alt="DIVA Skin Clinic Poipet" loading="lazy" style="width:100%;border-radius:8px;object-fit:cover;height:180px;display:block">
- <img src="https://i.ibb.co/8gdVWQLV/12330929-7-B2-D-494-A-9-AB0-AB3921-C62012-Original.jpg" alt="DIVA Skin Clinic Poipet" loading="lazy" style="width:100%;border-radius:8px;object-fit:cover;height:180px;display:block">
- <img src="https://i.ibb.co/PGKmSjfQ/F9-DB805-A-67-B9-4625-A3-CB-DB9-A6-FD60967-Original.jpg" alt="DIVA Skin Clinic Poipet" loading="lazy" style="width:100%;border-radius:8px;object-fit:cover;height:180px;display:block">
+ <img src="https://i.ibb.co/KjJccQbS/temp-image-F56-DC45-E-97-EE-43-EA-8-D57-B8-A0-A1-DF691-D-Original.jpg" alt="DIVA Skin Clinic Poipet" loading="lazy" style="width:100%;border-radius:8px;object-fit:cover;height:180px;display:block" referrerpolicy="no-referrer">
+ <img src="https://i.ibb.co/kVdq8Td7/29-B204-E0-80-B4-4-F25-B3-BA-9-A4539-A53-B30-Original.jpg" alt="DIVA Skin Clinic Poipet" loading="lazy" style="width:100%;border-radius:8px;object-fit:cover;height:180px;display:block" referrerpolicy="no-referrer">
+ <img src="https://i.ibb.co/8J6Dgx3/IMG-0529-Original.jpg" alt="DIVA Skin Clinic Poipet" loading="lazy" style="width:100%;border-radius:8px;object-fit:cover;height:180px;display:block" referrerpolicy="no-referrer">
+ <img src="https://i.ibb.co/JR00XfP8/IMG-0526-Original.jpg" alt="DIVA Skin Clinic Poipet" loading="lazy" style="width:100%;border-radius:8px;object-fit:cover;height:180px;display:block" referrerpolicy="no-referrer">
+ <img src="https://i.ibb.co/SX9Vc6Pt/IMG-2878-Original.jpg" alt="DIVA Skin Clinic Poipet" loading="lazy" style="width:100%;border-radius:8px;object-fit:cover;height:180px;display:block" referrerpolicy="no-referrer">
+ <img src="https://i.ibb.co/JFRBJSsC/IMG-5604.png" alt="DIVA Skin Clinic Poipet" loading="lazy" style="width:100%;border-radius:8px;object-fit:cover;height:180px;display:block" referrerpolicy="no-referrer">
+ <img src="https://i.ibb.co/KcB2kVcx/IMG-5526.jpg" alt="DIVA Skin Clinic Poipet" loading="lazy" style="width:100%;border-radius:8px;object-fit:cover;height:180px;display:block" referrerpolicy="no-referrer">
+ <img src="https://i.ibb.co/xS69Cr2J/IMG-4315-Original.jpg" alt="DIVA Skin Clinic Poipet" loading="lazy" style="width:100%;border-radius:8px;object-fit:cover;height:180px;display:block" referrerpolicy="no-referrer">
+ <img src="https://i.ibb.co/8gdVWQLV/12330929-7-B2-D-494-A-9-AB0-AB3921-C62012-Original.jpg" alt="DIVA Skin Clinic Poipet" loading="lazy" style="width:100%;border-radius:8px;object-fit:cover;height:180px;display:block" referrerpolicy="no-referrer">
+ <img src="https://i.ibb.co/PGKmSjfQ/F9-DB805-A-67-B9-4625-A3-CB-DB9-A6-FD60967-Original.jpg" alt="DIVA Skin Clinic Poipet" loading="lazy" style="width:100%;border-radius:8px;object-fit:cover;height:180px;display:block" referrerpolicy="no-referrer">
  </div>
  </div>
 </section>

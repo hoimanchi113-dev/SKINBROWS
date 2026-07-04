@@ -18,7 +18,7 @@ require __DIR__ . '/../../assets/partials/header.php';
  </div>
  </div>
  <div style="height:280px;border-radius:8px 8px 0 0;overflow:hidden">
- <img src="https://i.ibb.co/JRm8ttjm/h-nh-nh-s-n-ph-m-v-k-t-qu-tr-c-sau-khi-ti-m-tan-s-o-l-ic.png" alt="Keloid scar injection product and before/after result at DIVA Skin Clinic Poipet" style="width:100%;height:100%;object-fit:cover">
+ <img src="https://i.ibb.co/JRm8ttjm/h-nh-nh-s-n-ph-m-v-k-t-qu-tr-c-sau-khi-ti-m-tan-s-o-l-ic.png" alt="Keloid scar injection product and before/after result at DIVA Skin Clinic Poipet" style="width:100%;height:100%;object-fit:cover" referrerpolicy="no-referrer">
  </div>
  </div>
  </div>
@@ -51,7 +51,7 @@ require __DIR__ . '/../../assets/partials/header.php';
  <p>(VI) Sẹo lồi (keloid) là sẹo phát triển vượt ra ngoài ranh giới vết thương và có thể tiếp tục phát triển. Phổ biến hơn ở da ngăm đến tối. Vị trí thường gặp: ngực, lưng, vai, hàm, dái tai.</p>
 
  <figure style="margin:32px 0">
- <img src="https://i.ibb.co/84zkGSP5/teltiem-tri-seo-loi.jpg" alt="Keloid scar injection treatment at DIVA Skin Clinic Poipet" style="width:100%;border-radius:8px;display:block">
+ <img src="https://i.ibb.co/84zkGSP5/teltiem-tri-seo-loi.jpg" alt="Keloid scar injection treatment at DIVA Skin Clinic Poipet" style="width:100%;border-radius:8px;display:block" referrerpolicy="no-referrer">
  </figure>
 
  <h2 id="s2">2. Why Keloids Are Difficult to Treat</h2>
@@ -79,7 +79,7 @@ require __DIR__ . '/../../assets/partials/header.php';
  <p>Price at DIVA Skin Clinic Poipet: assessed based on keloid size. Contact WhatsApp for estimate.</p>
 
  <figure style="margin:32px 0">
- <img src="https://i.ibb.co/XZKmPdtd/s-n-ph-m-ti-m-i-u-tr-s-o-l-i-lisanolona.png" alt="Triamcinolone lisanolona product for keloid injection at DIVA Skin Clinic Poipet" style="width:100%;border-radius:8px;display:block">
+ <img src="https://i.ibb.co/XZKmPdtd/s-n-ph-m-ti-m-i-u-tr-s-o-l-i-lisanolona.png" alt="Triamcinolone lisanolona product for keloid injection at DIVA Skin Clinic Poipet" style="width:100%;border-radius:8px;display:block" referrerpolicy="no-referrer">
  </figure>
 
  <h2 id="s4">4. Laser Treatment for Keloids and Scars</h2>
@@ -137,7 +137,7 @@ require __DIR__ . '/../../assets/partials/header.php';
  <div class="blog-related-grid">
  <a href="/blog/body-beauty-hair-removal-poipet/" class="blog-related-card"><span class="label" style="font-size:.65rem">Body Treatment</span><h4>Body Beauty &amp; Hair Removal</h4><p>Full body treatment services.</p></a>
  <a href="/blog/acne-treatment-poipet/" class="blog-related-card"><span class="label" style="font-size:.65rem">Skin Treatment</span><h4>Acne Treatment in Poipet</h4><p>Prevent scars by treating acne early.</p></a>
- <a href="/body-treatment/" class="blog-related-card"><span class="label" style="font-size:.65rem">Service</span><h4>Body Treatment at DIVA</h4><p>Full range of body services.</p></a>
+ <a href="/services/" class="blog-related-card"><span class="label" style="font-size:.65rem">Service</span><h4>Body Treatment at DIVA</h4><p>Full range of body services.</p></a>
  </div>
  </div>
  </div>
@@ -149,16 +149,16 @@ require __DIR__ . '/../../assets/partials/header.php';
  <div class="container">
  <div style="font-size:.7rem;letter-spacing:.18em;text-transform:uppercase;color:var(--gold);margin-bottom:20px;text-align:center">Gallery — DIVA Skin Clinic Poipet</div>
  <div style="display:grid;grid-template-columns:repeat(4,1fr);gap:12px">
- <img src="https://i.ibb.co/27tRyMGH/h-nh-s-o-k-m-c-c-c-u-h-i-kh-ch-hay-h-i-v-d-c-v-tr-s-o-r.jpg" alt="DIVA Skin Clinic Poipet" loading="lazy" style="width:100%;border-radius:8px;object-fit:cover;height:180px;display:block">
- <img src="https://i.ibb.co/RTcjtpGk/ti-m-tr-s-o-l-i.jpg" alt="DIVA Skin Clinic Poipet" loading="lazy" style="width:100%;border-radius:8px;object-fit:cover;height:180px;display:block">
- <img src="https://i.ibb.co/qYyrHgsM/h-nh-nh-tr-c-sau-qu-tr-nh-i-u-tr-s-o-r.jpg" alt="DIVA Skin Clinic Poipet" loading="lazy" style="width:100%;border-radius:8px;object-fit:cover;height:180px;display:block">
- <img src="https://i.ibb.co/r2v709d7/h-nh-nh-k-t-qu-tr-c-sau-d-ch-v-i-u-tr-s-o-r.jpg" alt="DIVA Skin Clinic Poipet" loading="lazy" style="width:100%;border-radius:8px;object-fit:cover;height:180px;display:block">
- <img src="https://i.ibb.co/3YFfbXyn/Dry-Flaky-Skin-Still-Not-Looking-Better.png" alt="DIVA Skin Clinic Poipet" loading="lazy" style="width:100%;border-radius:8px;object-fit:cover;height:180px;display:block">
- <img src="https://i.ibb.co/dwGFz7GH/Why-Skin-Stays-Dry-and-Flaky.png" alt="DIVA Skin Clinic Poipet" loading="lazy" style="width:100%;border-radius:8px;object-fit:cover;height:180px;display:block">
- <img src="https://i.ibb.co/PvqDfmCk/The-Ideal-Treatment-Approach.png" alt="DIVA Skin Clinic Poipet" loading="lazy" style="width:100%;border-radius:8px;object-fit:cover;height:180px;display:block">
- <img src="https://i.ibb.co/twqLKXhN/h-nh-ph-n-bi-t-PIH-v-PIE.png" alt="DIVA Skin Clinic Poipet" loading="lazy" style="width:100%;border-radius:8px;object-fit:cover;height:180px;display:block">
- <img src="https://i.ibb.co/4RfnmsdR/h-nh-nh-tr-c-sau-chia-s-k-t-qu-c-a-kh-ch-h-ng-i-u-tr-m-n-vi-m.png" alt="DIVA Skin Clinic Poipet" loading="lazy" style="width:100%;border-radius:8px;object-fit:cover;height:180px;display:block">
- <img src="https://i.ibb.co/qFXjfMJG/h-nh-nh-tr-c-sau-i-u-tr-m-n-l-ng.png" alt="DIVA Skin Clinic Poipet" loading="lazy" style="width:100%;border-radius:8px;object-fit:cover;height:180px;display:block">
+ <img src="https://i.ibb.co/27tRyMGH/h-nh-s-o-k-m-c-c-c-u-h-i-kh-ch-hay-h-i-v-d-c-v-tr-s-o-r.jpg" alt="DIVA Skin Clinic Poipet" loading="lazy" style="width:100%;border-radius:8px;object-fit:cover;height:180px;display:block" referrerpolicy="no-referrer">
+ <img src="https://i.ibb.co/RTcjtpGk/ti-m-tr-s-o-l-i.jpg" alt="DIVA Skin Clinic Poipet" loading="lazy" style="width:100%;border-radius:8px;object-fit:cover;height:180px;display:block" referrerpolicy="no-referrer">
+ <img src="https://i.ibb.co/qYyrHgsM/h-nh-nh-tr-c-sau-qu-tr-nh-i-u-tr-s-o-r.jpg" alt="DIVA Skin Clinic Poipet" loading="lazy" style="width:100%;border-radius:8px;object-fit:cover;height:180px;display:block" referrerpolicy="no-referrer">
+ <img src="https://i.ibb.co/r2v709d7/h-nh-nh-k-t-qu-tr-c-sau-d-ch-v-i-u-tr-s-o-r.jpg" alt="DIVA Skin Clinic Poipet" loading="lazy" style="width:100%;border-radius:8px;object-fit:cover;height:180px;display:block" referrerpolicy="no-referrer">
+ <img src="https://i.ibb.co/3YFfbXyn/Dry-Flaky-Skin-Still-Not-Looking-Better.png" alt="DIVA Skin Clinic Poipet" loading="lazy" style="width:100%;border-radius:8px;object-fit:cover;height:180px;display:block" referrerpolicy="no-referrer">
+ <img src="https://i.ibb.co/dwGFz7GH/Why-Skin-Stays-Dry-and-Flaky.png" alt="DIVA Skin Clinic Poipet" loading="lazy" style="width:100%;border-radius:8px;object-fit:cover;height:180px;display:block" referrerpolicy="no-referrer">
+ <img src="https://i.ibb.co/PvqDfmCk/The-Ideal-Treatment-Approach.png" alt="DIVA Skin Clinic Poipet" loading="lazy" style="width:100%;border-radius:8px;object-fit:cover;height:180px;display:block" referrerpolicy="no-referrer">
+ <img src="https://i.ibb.co/twqLKXhN/h-nh-ph-n-bi-t-PIH-v-PIE.png" alt="DIVA Skin Clinic Poipet" loading="lazy" style="width:100%;border-radius:8px;object-fit:cover;height:180px;display:block" referrerpolicy="no-referrer">
+ <img src="https://i.ibb.co/4RfnmsdR/h-nh-nh-tr-c-sau-chia-s-k-t-qu-c-a-kh-ch-h-ng-i-u-tr-m-n-vi-m.png" alt="DIVA Skin Clinic Poipet" loading="lazy" style="width:100%;border-radius:8px;object-fit:cover;height:180px;display:block" referrerpolicy="no-referrer">
+ <img src="https://i.ibb.co/qFXjfMJG/h-nh-nh-tr-c-sau-i-u-tr-m-n-l-ng.png" alt="DIVA Skin Clinic Poipet" loading="lazy" style="width:100%;border-radius:8px;object-fit:cover;height:180px;display:block" referrerpolicy="no-referrer">
  </div>
  </div>
 </section>

@@ -21,7 +21,7 @@ require __DIR__ . '/../../assets/partials/header.php';
  <div style="height:280px;border-radius:8px 8px 0 0;overflow:hidden">
  <img src="https://i.ibb.co/xqjZxF48/h-nh-nh-gi-i-thi-u-d-ch-v-ti-m-botox-h-m.jpg"
  alt="Jaw botox V-Line treatment at DIVA Skin Clinic Poipet"
- style="width:100%;height:100%;object-fit:cover">
+ style="width:100%;height:100%;object-fit:cover" referrerpolicy="no-referrer">
  </div>
  </div>
  </div>
@@ -71,7 +71,7 @@ require __DIR__ . '/../../assets/partials/header.php';
  <figure style="margin:32px 0">
  <img src="https://i.ibb.co/spRkXj20/botox-tr-h-i-n-ch.jpg"
  alt="Botox treatment for wrinkle reduction at DIVA Skin Clinic Poipet"
- style="width:100%;border-radius:8px;display:block">
+ style="width:100%;border-radius:8px;display:block" referrerpolicy="no-referrer">
  </figure>
 
  <h2 id="s2">2. What Is Filler?</h2>
@@ -93,7 +93,7 @@ require __DIR__ . '/../../assets/partials/header.php';
  <figure style="margin:32px 0">
  <img src="https://i.ibb.co/vCkDwwPT/h-nh-nh-ket-qua-sau-khi-tiem-fillerm-i-xong.jpg"
  alt="Lip filler result at DIVA Skin Clinic Poipet"
- style="width:100%;border-radius:8px;display:block">
+ style="width:100%;border-radius:8px;display:block" referrerpolicy="no-referrer">
  </figure>
 
  <h2 id="s3">3. Key Differences Between Botox and Filler</h2>
@@ -127,7 +127,7 @@ require __DIR__ . '/../../assets/partials/header.php';
  <figure style="margin:32px 0">
  <img src="https://i.ibb.co/qLnGHjY5/filler-c-m-tr-c-sau.jpg"
  alt="Before and after chin filler treatment at DIVA Skin Clinic Poipet"
- style="width:100%;border-radius:8px;display:block">
+ style="width:100%;border-radius:8px;display:block" referrerpolicy="no-referrer">
  </figure>
 
  <h2 id="s5">5. When Is Filler the Right Choice?</h2>
@@ -175,7 +175,7 @@ require __DIR__ . '/../../assets/partials/header.php';
  <figure style="margin:32px 0">
  <img src="https://i.ibb.co/Kzj6MWkN/h-nh-nh-danh-s-ch-s-n-ph-m-ti-m-chia-theo-nh-m-c-a-Diva.png"
  alt="Injectable products available at DIVA Skin Clinic Poipet"
- style="width:100%;border-radius:8px;display:block">
+ style="width:100%;border-radius:8px;display:block" referrerpolicy="no-referrer">
  </figure>
 
  <h2 id="s8">8. Safety and What to Expect</h2>
@@ -206,7 +206,7 @@ require __DIR__ . '/../../assets/partials/header.php';
  <div style="margin-top:48px;padding-top:32px;border-top:1px solid var(--border)">
  <div style="font-size:.7rem;letter-spacing:.18em;text-transform:uppercase;color:var(--gold);margin-bottom:20px">Related Articles</div>
  <div class="blog-related-grid">
- <a href="/injectables-skin-boosters/" class="blog-related-card"><span class="label" style="font-size:.65rem">Service</span><h4>Injectables at DIVA</h4><p>Full range of injectable treatments.</p></a>
+ <a href="/services/" class="blog-related-card"><span class="label" style="font-size:.65rem">Service</span><h4>Injectables at DIVA</h4><p>Full range of injectable treatments.</p></a>
  <a href="/blog/iv-whitening-gluta-drip-poipet/" class="blog-related-card"><span class="label" style="font-size:.65rem">Wellness</span><h4>Whitening Infusion</h4><p>Glow and brightening drip programs.</p></a>
  <a href="/blog/technology-devices-diva-skin-clinic-poipet/" class="blog-related-card"><span class="label" style="font-size:.65rem">Technology</span><h4>Technology &amp; Devices</h4><p>CO2 Laser, RF and more explained.</p></a>
  </div>
@@ -220,15 +220,15 @@ require __DIR__ . '/../../assets/partials/header.php';
  <div class="container">
  <div style="font-size:.7rem;letter-spacing:.18em;text-transform:uppercase;color:var(--gold);margin-bottom:20px;text-align:center">Gallery — DIVA Skin Clinic Poipet</div>
  <div style="display:grid;grid-template-columns:repeat(4,1fr);gap:12px">
- <img src="https://i.ibb.co/LXwrB3nR/botox-n-ch.jpg" alt="DIVA Skin Clinic Poipet" loading="lazy" style="width:100%;border-radius:8px;object-fit:cover;height:180px;display:block">
- <img src="https://i.ibb.co/p6kMDtBq/h-nh-nh-chu-n-b-ti-p-thon-ng-n-m-t.jpg" alt="DIVA Skin Clinic Poipet" loading="lazy" style="width:100%;border-radius:8px;object-fit:cover;height:180px;display:block">
- <img src="https://i.ibb.co/qL1kd4qf/botox-vai.jpg" alt="DIVA Skin Clinic Poipet" loading="lazy" style="width:100%;border-radius:8px;object-fit:cover;height:180px;display:block">
- <img src="https://i.ibb.co/WpR05TpC/filler-m-i.jpg" alt="DIVA Skin Clinic Poipet" loading="lazy" style="width:100%;border-radius:8px;object-fit:cover;height:180px;display:block">
- <img src="https://i.ibb.co/bgCjbsyQ/h-nh-nh-tr-c-sau-d-ch-v-l-m-y-r-nh-c-i-filler.jpg" alt="DIVA Skin Clinic Poipet" loading="lazy" style="width:100%;border-radius:8px;object-fit:cover;height:180px;display:block">
- <img src="https://i.ibb.co/FkYXXYCJ/filler-c-m.jpg" alt="DIVA Skin Clinic Poipet" loading="lazy" style="width:100%;border-radius:8px;object-fit:cover;height:180px;display:block">
- <img src="https://i.ibb.co/FL61t7Wc/h-nh-nh-ti-m-filler-c-m-tr-c-sau.jpg" alt="DIVA Skin Clinic Poipet" loading="lazy" style="width:100%;border-radius:8px;object-fit:cover;height:180px;display:block">
- <img src="https://i.ibb.co/Kp0GTW6b/filler-tai.jpg" alt="DIVA Skin Clinic Poipet" loading="lazy" style="width:100%;border-radius:8px;object-fit:cover;height:180px;display:block">
- <img src="https://i.ibb.co/Fq4ys6w7/h-nh-nh-c-c-ki-u-d-ng-form-m-i-kh-ch-h-ng-l-a-ch-n-tr-c-khi-ti-m-filler.png" alt="DIVA Skin Clinic Poipet" loading="lazy" style="width:100%;border-radius:8px;object-fit:cover;height:180px;display:block">
+ <img src="https://i.ibb.co/LXwrB3nR/botox-n-ch.jpg" alt="DIVA Skin Clinic Poipet" loading="lazy" style="width:100%;border-radius:8px;object-fit:cover;height:180px;display:block" referrerpolicy="no-referrer">
+ <img src="https://i.ibb.co/p6kMDtBq/h-nh-nh-chu-n-b-ti-p-thon-ng-n-m-t.jpg" alt="DIVA Skin Clinic Poipet" loading="lazy" style="width:100%;border-radius:8px;object-fit:cover;height:180px;display:block" referrerpolicy="no-referrer">
+ <img src="https://i.ibb.co/qL1kd4qf/botox-vai.jpg" alt="DIVA Skin Clinic Poipet" loading="lazy" style="width:100%;border-radius:8px;object-fit:cover;height:180px;display:block" referrerpolicy="no-referrer">
+ <img src="https://i.ibb.co/WpR05TpC/filler-m-i.jpg" alt="DIVA Skin Clinic Poipet" loading="lazy" style="width:100%;border-radius:8px;object-fit:cover;height:180px;display:block" referrerpolicy="no-referrer">
+ <img src="https://i.ibb.co/bgCjbsyQ/h-nh-nh-tr-c-sau-d-ch-v-l-m-y-r-nh-c-i-filler.jpg" alt="DIVA Skin Clinic Poipet" loading="lazy" style="width:100%;border-radius:8px;object-fit:cover;height:180px;display:block" referrerpolicy="no-referrer">
+ <img src="https://i.ibb.co/FkYXXYCJ/filler-c-m.jpg" alt="DIVA Skin Clinic Poipet" loading="lazy" style="width:100%;border-radius:8px;object-fit:cover;height:180px;display:block" referrerpolicy="no-referrer">
+ <img src="https://i.ibb.co/FL61t7Wc/h-nh-nh-ti-m-filler-c-m-tr-c-sau.jpg" alt="DIVA Skin Clinic Poipet" loading="lazy" style="width:100%;border-radius:8px;object-fit:cover;height:180px;display:block" referrerpolicy="no-referrer">
+ <img src="https://i.ibb.co/Kp0GTW6b/filler-tai.jpg" alt="DIVA Skin Clinic Poipet" loading="lazy" style="width:100%;border-radius:8px;object-fit:cover;height:180px;display:block" referrerpolicy="no-referrer">
+ <img src="https://i.ibb.co/Fq4ys6w7/h-nh-nh-c-c-ki-u-d-ng-form-m-i-kh-ch-h-ng-l-a-ch-n-tr-c-khi-ti-m-filler.png" alt="DIVA Skin Clinic Poipet" loading="lazy" style="width:100%;border-radius:8px;object-fit:cover;height:180px;display:block" referrerpolicy="no-referrer">
  </div>
  </div>
 </section>

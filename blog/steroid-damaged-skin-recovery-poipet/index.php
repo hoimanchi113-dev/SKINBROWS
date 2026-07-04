@@ -18,7 +18,7 @@ require __DIR__ . '/../../assets/partials/header.php';
  </div>
  </div>
  <div style="height:280px;border-radius:8px 8px 0 0;overflow:hidden">
- <img src="https://i.ibb.co/9HbMwnrB/Signs-of-Steroid-Damaged-Skin.png" alt="Signs of steroid-damaged skin infographic by DIVA Skin Clinic Poipet" style="width:100%;height:100%;object-fit:cover">
+ <img src="https://i.ibb.co/9HbMwnrB/Signs-of-Steroid-Damaged-Skin.png" alt="Signs of steroid-damaged skin infographic by DIVA Skin Clinic Poipet" style="width:100%;height:100%;object-fit:cover" referrerpolicy="no-referrer">
  </div>
  </div>
  </div>
@@ -50,7 +50,7 @@ require __DIR__ . '/../../assets/partials/header.php';
  <p>These products make skin look clearer quickly because steroids suppress inflammation and temporarily reduce pigmentation. But the skin becomes dependent on the steroid to maintain this suppressed state. When stopped, all the suppressed inflammation floods back — often worse than the original problem.</p>
 
  <figure style="margin:32px 0">
- <img src="https://i.ibb.co/k2Mrvbg4/Why-Does-Steroid-Damaged-Skin-Relapse.png" alt="Why steroid-damaged skin relapses — DIVA Skin Clinic Poipet infographic" style="width:100%;border-radius:8px;display:block">
+ <img src="https://i.ibb.co/k2Mrvbg4/Why-Does-Steroid-Damaged-Skin-Relapse.png" alt="Why steroid-damaged skin relapses — DIVA Skin Clinic Poipet infographic" style="width:100%;border-radius:8px;display:block" referrerpolicy="no-referrer">
  </figure>
 
  <h2 id="s3">3. Signs of Steroid-Damaged Skin</h2>
@@ -135,14 +135,14 @@ require __DIR__ . '/../../assets/partials/header.php';
  <div class="container">
  <div style="font-size:.7rem;letter-spacing:.18em;text-transform:uppercase;color:var(--gold);margin-bottom:20px;text-align:center">Gallery — DIVA Skin Clinic Poipet</div>
  <div style="display:grid;grid-template-columns:repeat(4,1fr);gap:12px">
- <img src="https://i.ibb.co/gbsm1xHG/h-nh-nh-k-t-qu-tr-c-sau-i-u-tr-th-m-sau-m-n.jpg" alt="DIVA Skin Clinic Poipet" loading="lazy" style="width:100%;border-radius:8px;object-fit:cover;height:180px;display:block">
- <img src="https://i.ibb.co/yFSVmWpN/h-nh-nh-k-t-qu-tr-c-sau-i-u-tr-m-n-l-ng.jpg" alt="DIVA Skin Clinic Poipet" loading="lazy" style="width:100%;border-radius:8px;object-fit:cover;height:180px;display:block">
- <img src="https://i.ibb.co/6cbvxkM7/h-nh-nh-k-t-qu-tr-c-sau-i-u-tr-m-n-th-m.jpg" alt="DIVA Skin Clinic Poipet" loading="lazy" style="width:100%;border-radius:8px;object-fit:cover;height:180px;display:block">
- <img src="https://i.ibb.co/1f1W5QBh/h-nh-nh-ph-ng-d-ch-v-ti-m-nh-n-vi-n-ang-chu-n-b-th-c-hi-n-d-ch-v-cho-kh-ch-ang-l-m.jpg" alt="DIVA Skin Clinic Poipet" loading="lazy" style="width:100%;border-radius:8px;object-fit:cover;height:180px;display:block">
- <img src="https://i.ibb.co/DDYVK8yH/Causes-of-Recurrent-Pigmentation-Dullness-amp-Melasma.png" alt="DIVA Skin Clinic Poipet" loading="lazy" style="width:100%;border-radius:8px;object-fit:cover;height:180px;display:block">
- <img src="https://i.ibb.co/HS7HmpT/Smart-Hydration.png" alt="DIVA Skin Clinic Poipet" loading="lazy" style="width:100%;border-radius:8px;object-fit:cover;height:180px;display:block">
- <img src="https://i.ibb.co/JFyQwFQJ/meso-c-ng-b-ng-tr-ng-s-ng-ILLUMA.png" alt="DIVA Skin Clinic Poipet" loading="lazy" style="width:100%;border-radius:8px;object-fit:cover;height:180px;display:block">
- <img src="https://i.ibb.co/27Th1MrD/sp-tiem-meso-m-n.png" alt="DIVA Skin Clinic Poipet" loading="lazy" style="width:100%;border-radius:8px;object-fit:cover;height:180px;display:block">
+ <img src="https://i.ibb.co/gbsm1xHG/h-nh-nh-k-t-qu-tr-c-sau-i-u-tr-th-m-sau-m-n.jpg" alt="DIVA Skin Clinic Poipet" loading="lazy" style="width:100%;border-radius:8px;object-fit:cover;height:180px;display:block" referrerpolicy="no-referrer">
+ <img src="https://i.ibb.co/yFSVmWpN/h-nh-nh-k-t-qu-tr-c-sau-i-u-tr-m-n-l-ng.jpg" alt="DIVA Skin Clinic Poipet" loading="lazy" style="width:100%;border-radius:8px;object-fit:cover;height:180px;display:block" referrerpolicy="no-referrer">
+ <img src="https://i.ibb.co/6cbvxkM7/h-nh-nh-k-t-qu-tr-c-sau-i-u-tr-m-n-th-m.jpg" alt="DIVA Skin Clinic Poipet" loading="lazy" style="width:100%;border-radius:8px;object-fit:cover;height:180px;display:block" referrerpolicy="no-referrer">
+ <img src="https://i.ibb.co/1f1W5QBh/h-nh-nh-ph-ng-d-ch-v-ti-m-nh-n-vi-n-ang-chu-n-b-th-c-hi-n-d-ch-v-cho-kh-ch-ang-l-m.jpg" alt="DIVA Skin Clinic Poipet" loading="lazy" style="width:100%;border-radius:8px;object-fit:cover;height:180px;display:block" referrerpolicy="no-referrer">
+ <img src="https://i.ibb.co/DDYVK8yH/Causes-of-Recurrent-Pigmentation-Dullness-amp-Melasma.png" alt="DIVA Skin Clinic Poipet" loading="lazy" style="width:100%;border-radius:8px;object-fit:cover;height:180px;display:block" referrerpolicy="no-referrer">
+ <img src="https://i.ibb.co/HS7HmpT/Smart-Hydration.png" alt="DIVA Skin Clinic Poipet" loading="lazy" style="width:100%;border-radius:8px;object-fit:cover;height:180px;display:block" referrerpolicy="no-referrer">
+ <img src="https://i.ibb.co/JFyQwFQJ/meso-c-ng-b-ng-tr-ng-s-ng-ILLUMA.png" alt="DIVA Skin Clinic Poipet" loading="lazy" style="width:100%;border-radius:8px;object-fit:cover;height:180px;display:block" referrerpolicy="no-referrer">
+ <img src="https://i.ibb.co/27Th1MrD/sp-tiem-meso-m-n.png" alt="DIVA Skin Clinic Poipet" loading="lazy" style="width:100%;border-radius:8px;object-fit:cover;height:180px;display:block" referrerpolicy="no-referrer">
  </div>
  </div>
 </section>

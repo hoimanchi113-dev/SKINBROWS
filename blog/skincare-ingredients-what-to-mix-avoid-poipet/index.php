@@ -18,7 +18,7 @@ require __DIR__ . '/../../assets/partials/header.php';
  </div>
  </div>
  <div style="height:280px;border-radius:8px 8px 0 0;overflow:hidden">
- <img src="https://i.ibb.co/Sw0YVkHk/s-n-ph-m-vitamin-b5-d-ng-ti-m.png" alt="Vitamin B5 and skincare products at DIVA Skin Clinic Poipet" style="width:100%;height:100%;object-fit:cover">
+ <img src="https://i.ibb.co/Sw0YVkHk/s-n-ph-m-vitamin-b5-d-ng-ti-m.png" alt="Vitamin B5 and skincare products at DIVA Skin Clinic Poipet" style="width:100%;height:100%;object-fit:cover" referrerpolicy="no-referrer">
  </div>
  </div>
  </div>
@@ -79,7 +79,7 @@ require __DIR__ . '/../../assets/partials/header.php';
  <p>After using an exfoliating acid (AHA or BHA), applying B5 or HA helps soothe and hydrate the skin. This reduces irritation from the acid while maintaining the exfoliation benefits.</p>
 
  <figure style="margin:32px 0">
- <img src="https://i.ibb.co/J4GVrbV/s-n-ph-m-ti-m-skinbooster-Ejal40.png" alt="Skinbooster and skincare products at DIVA Skin Clinic Poipet" style="width:100%;border-radius:8px;display:block">
+ <img src="https://i.ibb.co/J4GVrbV/s-n-ph-m-ti-m-skinbooster-Ejal40.png" alt="Skinbooster and skincare products at DIVA Skin Clinic Poipet" style="width:100%;border-radius:8px;display:block" referrerpolicy="no-referrer">
  <!-- IMAGE CHECK: please review, selected as skincare product visual -->
  </figure>
 
@@ -159,18 +159,18 @@ require __DIR__ . '/../../assets/partials/header.php';
  <div class="container">
  <div style="font-size:.7rem;letter-spacing:.18em;text-transform:uppercase;color:var(--gold);margin-bottom:20px;text-align:center">Gallery — DIVA Skin Clinic Poipet</div>
  <div style="display:grid;grid-template-columns:repeat(4,1fr);gap:12px">
- <img src="https://i.ibb.co/JFyQwFQJ/meso-c-ng-b-ng-tr-ng-s-ng-ILLUMA.png" alt="DIVA Skin Clinic Poipet" loading="lazy" style="width:100%;border-radius:8px;object-fit:cover;height:180px;display:block">
- <img src="https://i.ibb.co/27Th1MrD/sp-tiem-meso-m-n.png" alt="DIVA Skin Clinic Poipet" loading="lazy" style="width:100%;border-radius:8px;object-fit:cover;height:180px;display:block">
- <img src="https://i.ibb.co/pNBKpCt/h-nh-kh-ch-h-ng-sau-khi-ti-m-meso.jpg" alt="DIVA Skin Clinic Poipet" loading="lazy" style="width:100%;border-radius:8px;object-fit:cover;height:180px;display:block">
- <img src="https://i.ibb.co/bMBqCm7q/hinh-ti-m-meso-m-t.jpg" alt="DIVA Skin Clinic Poipet" loading="lazy" style="width:100%;border-radius:8px;object-fit:cover;height:180px;display:block">
- <img src="https://i.ibb.co/F4ZthbTf/h-nh-ti-m-meso-t-c.jpg" alt="DIVA Skin Clinic Poipet" loading="lazy" style="width:100%;border-radius:8px;object-fit:cover;height:180px;display:block">
- <img src="https://i.ibb.co/R4HFxwR6/h-nh-ang-th-c-hi-n-d-ch-v-phi-kim-nano-c-y-tr-ng-da-m-t.jpg" alt="DIVA Skin Clinic Poipet" loading="lazy" style="width:100%;border-radius:8px;object-fit:cover;height:180px;display:block">
- <img src="https://i.ibb.co/21VTr2dp/h-nh-nh-gi-i-thi-u-hi-u-qu-c-a-meso.png" alt="DIVA Skin Clinic Poipet" loading="lazy" style="width:100%;border-radius:8px;object-fit:cover;height:180px;display:block">
- <img src="https://i.ibb.co/LhqNqNN9/th-ch-anh-v-a-ti-m-meso-v-sau-khi-ti-m-meso-glow.png" alt="DIVA Skin Clinic Poipet" loading="lazy" style="width:100%;border-radius:8px;object-fit:cover;height:180px;display:block">
- <img src="https://i.ibb.co/3yMzNdVZ/s-n-ph-m-skinbooster-belotero-revive.png" alt="DIVA Skin Clinic Poipet" loading="lazy" style="width:100%;border-radius:8px;object-fit:cover;height:180px;display:block">
- <img src="https://i.ibb.co/YxH24dX/s-n-ph-m-ti-m-skinbooster-NCTF-135-HA.png" alt="DIVA Skin Clinic Poipet" loading="lazy" style="width:100%;border-radius:8px;object-fit:cover;height:180px;display:block">
- <img src="https://i.ibb.co/HT6VpWBv/S-n-ph-m-rejuran-HB.png" alt="DIVA Skin Clinic Poipet" loading="lazy" style="width:100%;border-radius:8px;object-fit:cover;height:180px;display:block">
- <img src="https://i.ibb.co/1f98p7QT/combo-4-s-n-ph-m-ch-m-s-c-body-m-D-care.png" alt="DIVA Skin Clinic Poipet" loading="lazy" style="width:100%;border-radius:8px;object-fit:cover;height:180px;display:block">
+ <img src="https://i.ibb.co/JFyQwFQJ/meso-c-ng-b-ng-tr-ng-s-ng-ILLUMA.png" alt="DIVA Skin Clinic Poipet" loading="lazy" style="width:100%;border-radius:8px;object-fit:cover;height:180px;display:block" referrerpolicy="no-referrer">
+ <img src="https://i.ibb.co/27Th1MrD/sp-tiem-meso-m-n.png" alt="DIVA Skin Clinic Poipet" loading="lazy" style="width:100%;border-radius:8px;object-fit:cover;height:180px;display:block" referrerpolicy="no-referrer">
+ <img src="https://i.ibb.co/pNBKpCt/h-nh-kh-ch-h-ng-sau-khi-ti-m-meso.jpg" alt="DIVA Skin Clinic Poipet" loading="lazy" style="width:100%;border-radius:8px;object-fit:cover;height:180px;display:block" referrerpolicy="no-referrer">
+ <img src="https://i.ibb.co/bMBqCm7q/hinh-ti-m-meso-m-t.jpg" alt="DIVA Skin Clinic Poipet" loading="lazy" style="width:100%;border-radius:8px;object-fit:cover;height:180px;display:block" referrerpolicy="no-referrer">
+ <img src="https://i.ibb.co/F4ZthbTf/h-nh-ti-m-meso-t-c.jpg" alt="DIVA Skin Clinic Poipet" loading="lazy" style="width:100%;border-radius:8px;object-fit:cover;height:180px;display:block" referrerpolicy="no-referrer">
+ <img src="https://i.ibb.co/R4HFxwR6/h-nh-ang-th-c-hi-n-d-ch-v-phi-kim-nano-c-y-tr-ng-da-m-t.jpg" alt="DIVA Skin Clinic Poipet" loading="lazy" style="width:100%;border-radius:8px;object-fit:cover;height:180px;display:block" referrerpolicy="no-referrer">
+ <img src="https://i.ibb.co/21VTr2dp/h-nh-nh-gi-i-thi-u-hi-u-qu-c-a-meso.png" alt="DIVA Skin Clinic Poipet" loading="lazy" style="width:100%;border-radius:8px;object-fit:cover;height:180px;display:block" referrerpolicy="no-referrer">
+ <img src="https://i.ibb.co/LhqNqNN9/th-ch-anh-v-a-ti-m-meso-v-sau-khi-ti-m-meso-glow.png" alt="DIVA Skin Clinic Poipet" loading="lazy" style="width:100%;border-radius:8px;object-fit:cover;height:180px;display:block" referrerpolicy="no-referrer">
+ <img src="https://i.ibb.co/3yMzNdVZ/s-n-ph-m-skinbooster-belotero-revive.png" alt="DIVA Skin Clinic Poipet" loading="lazy" style="width:100%;border-radius:8px;object-fit:cover;height:180px;display:block" referrerpolicy="no-referrer">
+ <img src="https://i.ibb.co/YxH24dX/s-n-ph-m-ti-m-skinbooster-NCTF-135-HA.png" alt="DIVA Skin Clinic Poipet" loading="lazy" style="width:100%;border-radius:8px;object-fit:cover;height:180px;display:block" referrerpolicy="no-referrer">
+ <img src="https://i.ibb.co/HT6VpWBv/S-n-ph-m-rejuran-HB.png" alt="DIVA Skin Clinic Poipet" loading="lazy" style="width:100%;border-radius:8px;object-fit:cover;height:180px;display:block" referrerpolicy="no-referrer">
+ <img src="https://i.ibb.co/1f98p7QT/combo-4-s-n-ph-m-ch-m-s-c-body-m-D-care.png" alt="DIVA Skin Clinic Poipet" loading="lazy" style="width:100%;border-radius:8px;object-fit:cover;height:180px;display:block" referrerpolicy="no-referrer">
  </div>
  </div>
 </section>

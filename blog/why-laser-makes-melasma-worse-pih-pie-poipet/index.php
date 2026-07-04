@@ -18,7 +18,7 @@ require __DIR__ . '/../../assets/partials/header.php';
  </div>
  </div>
  <div style="height:280px;border-radius:8px 8px 0 0;overflow:hidden">
- <img src="https://i.ibb.co/HTnyFKc0/h-nh-nh-k-t-qu-tr-c-sau-i-u-tr-n-m.jpg" alt="Before and after melasma treatment at DIVA Skin Clinic Poipet" style="width:100%;height:100%;object-fit:cover">
+ <img src="https://i.ibb.co/HTnyFKc0/h-nh-nh-k-t-qu-tr-c-sau-i-u-tr-n-m.jpg" alt="Before and after melasma treatment at DIVA Skin Clinic Poipet" style="width:100%;height:100%;object-fit:cover" referrerpolicy="no-referrer">
  </div>
  </div>
  </div>
@@ -56,7 +56,7 @@ require __DIR__ . '/../../assets/partials/header.php';
  <p>At DIVA Skin Clinic Poipet, many clients come in having treated red marks (PIE) with brightening serums designed for dark marks (PIH). Brightening ingredients do nothing for dilated blood vessels. Identifying whether marks are PIH or PIE is the first step before any treatment begins.</p>
 
  <figure style="margin:32px 0">
- <img src="https://i.ibb.co/TDZrrDCb/h-nh-nh-tr-c-v-sau-i-u-tr-th-m-qu-ng-m-t-tr-ng-m-t.jpg" alt="Before and after eye area dark mark treatment at DIVA Skin Clinic Poipet" style="width:100%;border-radius:8px;display:block">
+ <img src="https://i.ibb.co/TDZrrDCb/h-nh-nh-tr-c-v-sau-i-u-tr-th-m-qu-ng-m-t-tr-ng-m-t.jpg" alt="Before and after eye area dark mark treatment at DIVA Skin Clinic Poipet" style="width:100%;border-radius:8px;display:block" referrerpolicy="no-referrer">
  </figure>
 
  <h2 id="s3">3. Why Laser Can Make Melasma Worse</h2>
@@ -82,7 +82,7 @@ require __DIR__ . '/../../assets/partials/header.php';
  <p>If treatment only addresses surface pigmentation without stabilizing the underlying skin foundation — melanin production system, skin barrier, hormonal triggers — recurrence is almost inevitable.</p>
 
  <figure style="margin:32px 0">
- <img src="https://i.ibb.co/20fftK0Z/xo-nh-n-tr-n-tr-th-m-qu-ng-m-t-cho-nam.png" alt="Wrinkle and dark circle treatment results for male client at DIVA Skin Clinic Poipet" style="width:100%;border-radius:8px;display:block">
+ <img src="https://i.ibb.co/20fftK0Z/xo-nh-n-tr-n-tr-th-m-qu-ng-m-t-cho-nam.png" alt="Wrinkle and dark circle treatment results for male client at DIVA Skin Clinic Poipet" style="width:100%;border-radius:8px;display:block" referrerpolicy="no-referrer">
  </figure>
 
  <h2 id="s5">5. How DIVA Skin Clinic Poipet Approaches Pigmentation Correctly</h2>
@@ -133,14 +133,14 @@ require __DIR__ . '/../../assets/partials/header.php';
  <div class="container">
  <div style="font-size:.7rem;letter-spacing:.18em;text-transform:uppercase;color:var(--gold);margin-bottom:20px;text-align:center">Gallery — DIVA Skin Clinic Poipet</div>
  <div style="display:grid;grid-template-columns:repeat(4,1fr);gap:12px">
- <img src="https://i.ibb.co/S8wFDLp/h-nh-nh-tr-c-v-sau-i-u-tr-th-m-qu-ng-m-t.jpg" alt="DIVA Skin Clinic Poipet" loading="lazy" style="width:100%;border-radius:8px;object-fit:cover;height:180px;display:block">
- <img src="https://i.ibb.co/bjJn37s2/h-nh-nh-tr-c-v-sau-khi-ti-m-xo-nh-n-tr-n.png" alt="DIVA Skin Clinic Poipet" loading="lazy" style="width:100%;border-radius:8px;object-fit:cover;height:180px;display:block">
- <img src="https://i.ibb.co/GvDFLmyY/h-nh-nh-x-a-nh-n-i-m-t-k-t-qu-tr-c-sau.jpg" alt="DIVA Skin Clinic Poipet" loading="lazy" style="width:100%;border-radius:8px;object-fit:cover;height:180px;display:block">
- <img src="https://i.ibb.co/pjbq1nTV/h-nh-nh-tr-c-sau-ti-m-th-m-qu-ng-m-t.png" alt="DIVA Skin Clinic Poipet" loading="lazy" style="width:100%;border-radius:8px;object-fit:cover;height:180px;display:block">
- <img src="https://i.ibb.co/mrX0sh3X/hifu.png" alt="DIVA Skin Clinic Poipet" loading="lazy" style="width:100%;border-radius:8px;object-fit:cover;height:180px;display:block">
- <img src="https://i.ibb.co/VWYsXGV5/a-banner-advertisement-for-diva-skin-lazer-a-sk.png" alt="DIVA Skin Clinic Poipet" loading="lazy" style="width:100%;border-radius:8px;object-fit:cover;height:180px;display:block">
- <img src="https://i.ibb.co/WpWNRLXS/h-nh-nh-thi-t-b-Hifu-4-D-c-a-diva.jpg" alt="DIVA Skin Clinic Poipet" loading="lazy" style="width:100%;border-radius:8px;object-fit:cover;height:180px;display:block">
- <img src="https://i.ibb.co/Wvts7tGf/h-nh-nh-m-y-laser-DPL-c-a-diva.jpg" alt="DIVA Skin Clinic Poipet" loading="lazy" style="width:100%;border-radius:8px;object-fit:cover;height:180px;display:block">
+ <img src="https://i.ibb.co/S8wFDLp/h-nh-nh-tr-c-v-sau-i-u-tr-th-m-qu-ng-m-t.jpg" alt="DIVA Skin Clinic Poipet" loading="lazy" style="width:100%;border-radius:8px;object-fit:cover;height:180px;display:block" referrerpolicy="no-referrer">
+ <img src="https://i.ibb.co/bjJn37s2/h-nh-nh-tr-c-v-sau-khi-ti-m-xo-nh-n-tr-n.png" alt="DIVA Skin Clinic Poipet" loading="lazy" style="width:100%;border-radius:8px;object-fit:cover;height:180px;display:block" referrerpolicy="no-referrer">
+ <img src="https://i.ibb.co/GvDFLmyY/h-nh-nh-x-a-nh-n-i-m-t-k-t-qu-tr-c-sau.jpg" alt="DIVA Skin Clinic Poipet" loading="lazy" style="width:100%;border-radius:8px;object-fit:cover;height:180px;display:block" referrerpolicy="no-referrer">
+ <img src="https://i.ibb.co/pjbq1nTV/h-nh-nh-tr-c-sau-ti-m-th-m-qu-ng-m-t.png" alt="DIVA Skin Clinic Poipet" loading="lazy" style="width:100%;border-radius:8px;object-fit:cover;height:180px;display:block" referrerpolicy="no-referrer">
+ <img src="https://i.ibb.co/mrX0sh3X/hifu.png" alt="DIVA Skin Clinic Poipet" loading="lazy" style="width:100%;border-radius:8px;object-fit:cover;height:180px;display:block" referrerpolicy="no-referrer">
+ <img src="https://i.ibb.co/VWYsXGV5/a-banner-advertisement-for-diva-skin-lazer-a-sk.png" alt="DIVA Skin Clinic Poipet" loading="lazy" style="width:100%;border-radius:8px;object-fit:cover;height:180px;display:block" referrerpolicy="no-referrer">
+ <img src="https://i.ibb.co/WpWNRLXS/h-nh-nh-thi-t-b-Hifu-4-D-c-a-diva.jpg" alt="DIVA Skin Clinic Poipet" loading="lazy" style="width:100%;border-radius:8px;object-fit:cover;height:180px;display:block" referrerpolicy="no-referrer">
+ <img src="https://i.ibb.co/Wvts7tGf/h-nh-nh-m-y-laser-DPL-c-a-diva.jpg" alt="DIVA Skin Clinic Poipet" loading="lazy" style="width:100%;border-radius:8px;object-fit:cover;height:180px;display:block" referrerpolicy="no-referrer">
  </div>
  </div>
 </section>

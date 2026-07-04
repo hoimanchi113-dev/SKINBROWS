@@ -17,10 +17,10 @@ require __DIR__ . '/../../assets/partials/header.php';
  </div>
 </div>
 <div style="display:grid;grid-template-columns:repeat(2,1fr);gap:16px;margin:32px 0">
- <img src="https://i.ibb.co/HTNMg4Mm/h-nh-nh-m-y-laser-pico.jpg" alt="Pico laser at DIVA Skin Clinic Poipet" style="width:100%;border-radius:8px;object-fit:cover;height:220px">
- <img src="https://i.ibb.co/kgyBrXrf/h-nh-nh-m-y-laser-co2-c-a-diva.jpg" alt="CO2 laser at DIVA Skin Clinic Poipet" style="width:100%;border-radius:8px;object-fit:cover;height:220px">
- <img src="https://i.ibb.co/Rk07NRK5/hifu.png" alt="HIFU machine at DIVA Skin Clinic Poipet" style="width:100%;border-radius:8px;object-fit:cover;height:220px">
- <img src="https://i.ibb.co/B50LhvgB/h-nh-nh-m-y-laser-dpl-c-nhi-u-ch-c-n-ng-ph-c-h-i-l-m-s-ng-v-tri-t-l-ng.jpg" alt="DPL laser at DIVA Skin Clinic Poipet" style="width:100%;border-radius:8px;object-fit:cover;height:220px">
+ <img src="https://i.ibb.co/HTNMg4Mm/h-nh-nh-m-y-laser-pico.jpg" alt="Pico laser at DIVA Skin Clinic Poipet" style="width:100%;border-radius:8px;object-fit:cover;height:220px" referrerpolicy="no-referrer">
+ <img src="https://i.ibb.co/kgyBrXrf/h-nh-nh-m-y-laser-co2-c-a-diva.jpg" alt="CO2 laser at DIVA Skin Clinic Poipet" style="width:100%;border-radius:8px;object-fit:cover;height:220px" referrerpolicy="no-referrer">
+ <img src="https://i.ibb.co/Rk07NRK5/hifu.png" alt="HIFU machine at DIVA Skin Clinic Poipet" style="width:100%;border-radius:8px;object-fit:cover;height:220px" referrerpolicy="no-referrer">
+ <img src="https://i.ibb.co/B50LhvgB/h-nh-nh-m-y-laser-dpl-c-nhi-u-ch-c-n-ng-ph-c-h-i-l-m-s-ng-v-tri-t-l-ng.jpg" alt="DPL laser at DIVA Skin Clinic Poipet" style="width:100%;border-radius:8px;object-fit:cover;height:220px" referrerpolicy="no-referrer">
 </div>
 <section class="section">
  <div class="container">
@@ -101,17 +101,17 @@ require __DIR__ . '/../../assets/partials/header.php';
  <div class="container">
  <div style="font-size:.7rem;letter-spacing:.18em;text-transform:uppercase;color:var(--gold);margin-bottom:20px;text-align:center">Gallery — DIVA Skin Clinic Poipet</div>
  <div style="display:grid;grid-template-columns:repeat(4,1fr);gap:12px">
- <img src="https://i.ibb.co/5xfv83zr/h-nh-nh-thi-t-b-h-tr-th-i-kh-ng-kh-l-nh-m-20-c-c-a-diva.jpg" alt="DIVA Skin Clinic Poipet" loading="lazy" style="width:100%;border-radius:8px;object-fit:cover;height:180px;display:block">
- <img src="https://i.ibb.co/Q3nQ4h2j/h-nh-nh-m-t-c-c-v-n-v-da-sau-khi-i-u-tr-b-ng-laser.png" alt="DIVA Skin Clinic Poipet" loading="lazy" style="width:100%;border-radius:8px;object-fit:cover;height:180px;display:block">
- <img src="https://i.ibb.co/nhHKT0W/z7089859980426-a4930c67cb78ead24d835f74a86d7b9e.jpg" alt="DIVA Skin Clinic Poipet" loading="lazy" style="width:100%;border-radius:8px;object-fit:cover;height:180px;display:block">
- <img src="https://i.ibb.co/bj5MHcsc/z7089859801151-84758c382ad1a1aa2092afee9ccf3a18.jpg" alt="DIVA Skin Clinic Poipet" loading="lazy" style="width:100%;border-radius:8px;object-fit:cover;height:180px;display:block">
- <img src="https://i.ibb.co/DHpw9SDC/h-nh-nh-tr-c-v-qu-tr-nh-sau-khi-i-u-tr-v-h-nh-nh-sau-i-u-tr-co2.jpg" alt="DIVA Skin Clinic Poipet" loading="lazy" style="width:100%;border-radius:8px;object-fit:cover;height:180px;display:block">
- <img src="https://i.ibb.co/gMP8Csf4/h-nh-nh-i-u-tr-da-m-t-b-ng-laser-co2-ng-y-th-3.jpg" alt="DIVA Skin Clinic Poipet" loading="lazy" style="width:100%;border-radius:8px;object-fit:cover;height:180px;display:block">
- <img src="https://i.ibb.co/YBh1FRtB/h-nh-nh-v-a-m-i-th-c-hi-n-dieu-tri-mat-bang-laser-co2-ng-y-u-ti-n.jpg" alt="DIVA Skin Clinic Poipet" loading="lazy" style="width:100%;border-radius:8px;object-fit:cover;height:180px;display:block">
- <img src="https://i.ibb.co/pvSQs181/h-nh-nh-chuy-n-gia-ang-dung-laserco2-i-u-tr-cho-kh-ch-CO-Laser-Treatment-diva-Poipet.jpg" alt="DIVA Skin Clinic Poipet" loading="lazy" style="width:100%;border-radius:8px;object-fit:cover;height:180px;display:block">
- <img src="https://i.ibb.co/d42WyFxg/HIFU-Face-Lift-V-Line-Tightening-amp-Anti-Aging-DIVA-Skin-Clinic.jpg" alt="DIVA Skin Clinic Poipet" loading="lazy" style="width:100%;border-radius:8px;object-fit:cover;height:180px;display:block">
- <img src="https://i.ibb.co/gMR2PN9V/h-nh-nh-chuy-n-gia-cho-kh-ch-h-ng-xem-h-nh-nh-qua-m-y-ph-n-t-ch-da-ai-v-t-v-n.jpg" alt="DIVA Skin Clinic Poipet" loading="lazy" style="width:100%;border-radius:8px;object-fit:cover;height:180px;display:block">
- <img src="https://i.ibb.co/kV4bd5pv/h-nh-nh-1-s-thi-t-b-m-y-m-c-c-a-diva.jpg" alt="DIVA Skin Clinic Poipet" loading="lazy" style="width:100%;border-radius:8px;object-fit:cover;height:180px;display:block">
+ <img src="https://i.ibb.co/5xfv83zr/h-nh-nh-thi-t-b-h-tr-th-i-kh-ng-kh-l-nh-m-20-c-c-a-diva.jpg" alt="DIVA Skin Clinic Poipet" loading="lazy" style="width:100%;border-radius:8px;object-fit:cover;height:180px;display:block" referrerpolicy="no-referrer">
+ <img src="https://i.ibb.co/Q3nQ4h2j/h-nh-nh-m-t-c-c-v-n-v-da-sau-khi-i-u-tr-b-ng-laser.png" alt="DIVA Skin Clinic Poipet" loading="lazy" style="width:100%;border-radius:8px;object-fit:cover;height:180px;display:block" referrerpolicy="no-referrer">
+ <img src="https://i.ibb.co/nhHKT0W/z7089859980426-a4930c67cb78ead24d835f74a86d7b9e.jpg" alt="DIVA Skin Clinic Poipet" loading="lazy" style="width:100%;border-radius:8px;object-fit:cover;height:180px;display:block" referrerpolicy="no-referrer">
+ <img src="https://i.ibb.co/bj5MHcsc/z7089859801151-84758c382ad1a1aa2092afee9ccf3a18.jpg" alt="DIVA Skin Clinic Poipet" loading="lazy" style="width:100%;border-radius:8px;object-fit:cover;height:180px;display:block" referrerpolicy="no-referrer">
+ <img src="https://i.ibb.co/DHpw9SDC/h-nh-nh-tr-c-v-qu-tr-nh-sau-khi-i-u-tr-v-h-nh-nh-sau-i-u-tr-co2.jpg" alt="DIVA Skin Clinic Poipet" loading="lazy" style="width:100%;border-radius:8px;object-fit:cover;height:180px;display:block" referrerpolicy="no-referrer">
+ <img src="https://i.ibb.co/gMP8Csf4/h-nh-nh-i-u-tr-da-m-t-b-ng-laser-co2-ng-y-th-3.jpg" alt="DIVA Skin Clinic Poipet" loading="lazy" style="width:100%;border-radius:8px;object-fit:cover;height:180px;display:block" referrerpolicy="no-referrer">
+ <img src="https://i.ibb.co/YBh1FRtB/h-nh-nh-v-a-m-i-th-c-hi-n-dieu-tri-mat-bang-laser-co2-ng-y-u-ti-n.jpg" alt="DIVA Skin Clinic Poipet" loading="lazy" style="width:100%;border-radius:8px;object-fit:cover;height:180px;display:block" referrerpolicy="no-referrer">
+ <img src="https://i.ibb.co/pvSQs181/h-nh-nh-chuy-n-gia-ang-dung-laserco2-i-u-tr-cho-kh-ch-CO-Laser-Treatment-diva-Poipet.jpg" alt="DIVA Skin Clinic Poipet" loading="lazy" style="width:100%;border-radius:8px;object-fit:cover;height:180px;display:block" referrerpolicy="no-referrer">
+ <img src="https://i.ibb.co/d42WyFxg/HIFU-Face-Lift-V-Line-Tightening-amp-Anti-Aging-DIVA-Skin-Clinic.jpg" alt="DIVA Skin Clinic Poipet" loading="lazy" style="width:100%;border-radius:8px;object-fit:cover;height:180px;display:block" referrerpolicy="no-referrer">
+ <img src="https://i.ibb.co/gMR2PN9V/h-nh-nh-chuy-n-gia-cho-kh-ch-h-ng-xem-h-nh-nh-qua-m-y-ph-n-t-ch-da-ai-v-t-v-n.jpg" alt="DIVA Skin Clinic Poipet" loading="lazy" style="width:100%;border-radius:8px;object-fit:cover;height:180px;display:block" referrerpolicy="no-referrer">
+ <img src="https://i.ibb.co/kV4bd5pv/h-nh-nh-1-s-thi-t-b-m-y-m-c-c-a-diva.jpg" alt="DIVA Skin Clinic Poipet" loading="lazy" style="width:100%;border-radius:8px;object-fit:cover;height:180px;display:block" referrerpolicy="no-referrer">
  </div>
  </div>
 </section>

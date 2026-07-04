@@ -256,7 +256,7 @@ require __DIR__ . '/../assets/partials/header.php';
       foreach($vids as $v): ?>
       <a href="<?php echo $v[2]; ?>" target="_blank" rel="noopener" class="video-card">
         <div class="video-thumb">
-          <img src="https://img.youtube.com/vi/<?php echo $v[1]; ?>/mqdefault.jpg"
+          <img src="https://img.youtube.com/vi/<?php echo $v[1]; ?>/mqdefault.jpg" referrerpolicy="no-referrer"
                alt="<?php echo htmlspecialchars($v[0]); ?>"
                referrerpolicy="no-referrer" loading="lazy">
           <div class="video-play">

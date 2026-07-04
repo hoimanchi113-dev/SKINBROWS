@@ -1,5 +1,5 @@
 <?php
-$page_title = 'Promotion Price in Poipet — July 2025';
+$page_title = 'Promotion Price in Poipet — Current Promotion';
 $meta_desc  = 'Current promotion price for skin treatment, laser, IV whitening, hair removal, botox and filler at DIVA Skin Clinic Poipet.';
 $canonical  = '/price-list/';
 require __DIR__ . '/../assets/partials/header.php';
@@ -10,7 +10,7 @@ require __DIR__ . '/../assets/partials/header.php';
   <div class="container">
     <span class="label" style="display:block;margin-bottom:12px">Current Promotion</span>
     <h1>Promotion Price in Poipet</h1>
-    <p style="margin-top:14px">Giá ưu đãi tháng 7. Prices are for reference — contact us to confirm current promotion and schedule an appointment.</p>
+    <p style="margin-top:14px">Contact us to confirm current promotion price. Prices are for reference — contact us to confirm current promotion and schedule an appointment.</p>
     <div style="display:flex;gap:12px;flex-wrap:wrap;margin-top:28px">
       <a href="<?php echo $wa_link; ?>" target="_blank" rel="noopener" class="btn btn-wa">Contact for Current Price</a>
       <a href="<?php echo $tg_link; ?>" target="_blank" rel="noopener" class="btn btn-tg">Message on Telegram</a>

@@ -96,8 +96,8 @@ require __DIR__ . '/assets/partials/header.php';
   <div class="container">
     <div class="text-center mb-32">
       <span class="label" style="display:block;margin-bottom:10px">Current Promotion</span>
-      <h2 style="color:#fff">Promotion Price — July 2025</h2>
-      <p style="color:#9CA3AF;margin-top:10px;font-size:.88rem">Giá ưu đãi tháng 7. Liên hệ để xác nhận và đặt lịch.</p>
+      <h2 style="color:#fff">Promotion Price — Current Promotion</h2>
+      <p style="color:#9CA3AF;margin-top:10px;font-size:.88rem">Contact us to confirm current promotion price. Liên hệ để xác nhận và đặt lịch.</p>
     </div>
 
     <div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(155px,1fr));gap:12px;max-width:820px;margin:0 auto 32px">
@@ -160,7 +160,7 @@ require __DIR__ . '/assets/partials/header.php';
       foreach($videos as $v): ?>
       <a href="<?php echo $v[2]; ?>" target="_blank" rel="noopener" class="video-card">
         <div class="video-thumb">
-          <img src="https://img.youtube.com/vi/<?php echo $v[1]; ?>/mqdefault.jpg"
+          <img src="https://img.youtube.com/vi/<?php echo $v[1]; ?>/mqdefault.jpg" referrerpolicy="no-referrer"
                alt="<?php echo htmlspecialchars($v[0]); ?>"
                referrerpolicy="no-referrer" loading="lazy">
           <div class="video-play">

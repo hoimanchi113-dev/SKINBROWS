@@ -2,10 +2,9 @@
 // Shared variables — override before require
 $wa_link  = 'https://wa.me/85593970584';
 $tg_link  = 'https://t.me/diva_glow_poipet';
-$loc_link = 'https://maps.app.goo.gl/diva-poipet';
+$loc_link = 'https://maps.app.goo.gl/Jz2dQN2dV3jJvgbx9?g_st=ic';
 
-$site_scheme = (!empty($_SERVER['HTTPS']) && $_SERVER['HTTPS'] !== 'off') ? 'https://' : 'http://';
-$site_url  = $site_scheme . ($_SERVER['HTTP_HOST'] ?? 'localhost');
+$site_url = 'https://divaskinclinic.online';
 $site_name = 'DIVA Skin Clinic Poipet';
 
 // Defaults
@@ -34,7 +33,7 @@ function nav_active($path) {
   <meta property="og:description" content="<?php echo htmlspecialchars($meta_desc); ?>">
   <meta property="og:url"         content="<?php echo $site_url . $canonical; ?>">
   <meta property="og:type"        content="website">
-  <meta property="og:image"       content="<?php echo $site_url; ?>/assets/img/og-cover.jpg">
+  <meta property="og:image"       content="https://i.ibb.co/fdwcXfF5/H-nh-gh-p-2-nh-tr-c-v-2-nh-sau-d-ch-v-i-u-tr-m-n-v-th-m-sau-m-n.jpg">
   <meta property="og:site_name"   content="DIVA Skin Clinic Poipet">
 
   <!-- Google Fonts -->
