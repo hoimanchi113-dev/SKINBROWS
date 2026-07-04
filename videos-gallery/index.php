@@ -38,7 +38,6 @@ require __DIR__ . '/../assets/partials/header.php';
       'Body Treatment' => [
         ['Underarm Hair Removal in Poipet',      'X24OroVeZT0', 'https://youtu.be/X24OroVeZT0',       '/hair-removal-poipet/'],
         ['Arm Hair Removal in Poipet',           'Eu1eP66nrMY', 'https://youtu.be/Eu1eP66nrMY',       '/hair-removal-poipet/'],
-        ['Underarm Peeling in Poipet',           'f-YxYgccg2c', 'https://youtu.be/f-YxYgccg2c',       '/back-acne-treatment-poipet/'],
         ['Underarm Whitening in Poipet',         'ABEqLTbiu1Y', 'https://youtu.be/ABEqLTbiu1Y',       '/back-acne-treatment-poipet/'],
         ['Back Acne Treatment in Poipet',        'JSH7C4dF-NY', 'https://youtu.be/JSH7C4dF-NY',       '/back-acne-treatment-poipet/'],
         ['Back Acne Treatment at DIVA',          'GhMn0OONi8s', 'https://youtu.be/GhMn0OONi8s',       '/back-acne-treatment-poipet/'],
@@ -53,8 +52,7 @@ require __DIR__ . '/../assets/partials/header.php';
         ['Lip Filler at DIVA Skin Clinic',       'd9_MVEXMals', 'https://youtu.be/d9_MVEXMals',       '/botox-filler-poipet/'],
         ['Dark Lip Correction for Men',          '4lroliozc_w', 'https://youtu.be/4lroliozc_w',       '/pmu-lip-blush-eyebrow-poipet/'],
         ['Lips Nano Collagen PMU',               'CHmDLuaSRT0', 'https://youtu.be/CHmDLuaSRT0',       '/pmu-lip-blush-eyebrow-poipet/'],
-        ['Hairstroke 9D Eyebrow',                'uyUcRMXXtSk', 'https://youtu.be/uyUcRMXXtSk',       '/pmu-lip-blush-eyebrow-poipet/'],
-        ['Hairstroke 9D Eyebrow (2)',             'PBg8jD2ca3k', 'https://youtu.be/PBg8jD2ca3k',       '/pmu-lip-blush-eyebrow-poipet/'],
+        ['Hairstroke 9D Eyebrow',                'PBg8jD2ca3k', 'https://youtu.be/PBg8jD2ca3k',       '/pmu-lip-blush-eyebrow-poipet/'],
         ['Thread Nose Lift in Poipet',           'YaJWiUfrHRI', 'https://youtu.be/YaJWiUfrHRI',       '/botox-filler-poipet/'],
         ['Structural Rhinoplasty',               'muKmVZO3gTo', 'https://youtu.be/muKmVZO3gTo',       '/botox-filler-poipet/'],
       ],

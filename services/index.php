@@ -161,10 +161,14 @@ require __DIR__ . '/../assets/partials/header.php';
         </div>
         <ul style="list-style:none;font-size:.83rem;color:var(--text-muted);line-height:2">
           <li>• <a href="/acne-treatment-poipet/" style="color:var(--text-muted);text-decoration:none" onmouseover="this.style.color='var(--gold)'" onmouseout="this.style.color='var(--text-muted)'">Acne treatment</a></li>
+          <li>• <a href="/acne-peel-treatment-poipet/" style="color:var(--text-muted);text-decoration:none" onmouseover="this.style.color='var(--gold)'" onmouseout="this.style.color='var(--text-muted)'">Acne peel treatment</a></li>
           <li>• <a href="/dark-spots-treatment-poipet/" style="color:var(--text-muted);text-decoration:none" onmouseover="this.style.color='var(--gold)'" onmouseout="this.style.color='var(--text-muted)'">Dark spots &amp; melasma</a></li>
           <li>• <a href="/pores-treatment-poipet/" style="color:var(--text-muted);text-decoration:none" onmouseover="this.style.color='var(--gold)'" onmouseout="this.style.color='var(--text-muted)'">Pores &amp; acne scars</a></li>
-          <li>• <a href="/acne-scar-treatment-poipet/" style="color:var(--text-muted);text-decoration:none" onmouseover="this.style.color='var(--gold)'" onmouseout="this.style.color='var(--text-muted)'">CO2 / Pico / RF</a></li>
-          <li>• Peel / Meso / LED</li>
+          <li>• <a href="/blackhead-treatment-poipet/" style="color:var(--text-muted);text-decoration:none" onmouseover="this.style.color='var(--gold)'" onmouseout="this.style.color='var(--text-muted)'">Blackhead treatment</a></li>
+          <li>• <a href="/acne-scar-treatment-poipet/" style="color:var(--text-muted);text-decoration:none" onmouseover="this.style.color='var(--gold)'" onmouseout="this.style.color='var(--text-muted)'">Acne scar treatment</a></li>
+          <li>• <a href="/co2-laser-treatment-poipet/" style="color:var(--text-muted);text-decoration:none" onmouseover="this.style.color='var(--gold)'" onmouseout="this.style.color='var(--text-muted)'">CO2 laser treatment</a></li>
+          <li>• <a href="/pico-laser-treatment-poipet/" style="color:var(--text-muted);text-decoration:none" onmouseover="this.style.color='var(--gold)'" onmouseout="this.style.color='var(--text-muted)'">Pico laser treatment</a></li>
+          <li>• <a href="/rf-microneedling-poipet/" style="color:var(--text-muted);text-decoration:none" onmouseover="this.style.color='var(--gold)'" onmouseout="this.style.color='var(--text-muted)'">RF microneedling</a></li>
         </ul>
         <a href="/acne-treatment-poipet/" style="font-size:.78rem;color:var(--gold);text-decoration:none;letter-spacing:.06em">View details →</a>
       </div>
@@ -196,6 +200,8 @@ require __DIR__ . '/../assets/partials/header.php';
           <li>• <a href="/leg-dark-spots-treatment-poipet/" style="color:var(--text-muted);text-decoration:none" onmouseover="this.style.color='var(--gold)'" onmouseout="this.style.color='var(--text-muted)'">Leg dark spots</a></li>
           <li>• Underarm brightening</li>
           <li>• <a href="/hair-removal-poipet/" style="color:var(--text-muted);text-decoration:none" onmouseover="this.style.color='var(--gold)'" onmouseout="this.style.color='var(--text-muted)'">Hair removal</a></li>
+          <li>• <a href="/face-hair-removal-poipet/" style="color:var(--text-muted);text-decoration:none" onmouseover="this.style.color='var(--gold)'" onmouseout="this.style.color='var(--text-muted)'">Face hair removal</a></li>
+          <li>• <a href="/underarm-hair-removal-poipet/" style="color:var(--text-muted);text-decoration:none" onmouseover="this.style.color='var(--gold)'" onmouseout="this.style.color='var(--text-muted)'">Underarm hair removal</a></li>
           <li>• <a href="/laser-tattoo-removal-poipet/" style="color:var(--text-muted);text-decoration:none" onmouseover="this.style.color='var(--gold)'" onmouseout="this.style.color='var(--text-muted)'">Mole / skin tag removal</a></li>
         </ul>
         <a href="/back-acne-treatment-poipet/" style="font-size:.78rem;color:var(--gold);text-decoration:none;letter-spacing:.06em">View details →</a>
@@ -208,9 +214,10 @@ require __DIR__ . '/../assets/partials/header.php';
           <h3 style="font-size:1.05rem;margin:0">PMU &amp; Beauty</h3>
         </div>
         <ul style="list-style:none;font-size:.83rem;color:var(--text-muted);line-height:2">
-          <li>• <a href="/pmu-lip-blush-eyebrow-poipet/" style="color:var(--text-muted);text-decoration:none" onmouseover="this.style.color='var(--gold)'" onmouseout="this.style.color='var(--text-muted)'">Lip blush</a></li>
+          <li>• <a href="/pmu-lip-blush-eyebrow-poipet/" style="color:var(--text-muted);text-decoration:none" onmouseover="this.style.color='var(--gold)'" onmouseout="this.style.color='var(--text-muted)'">Lip blush &amp; eyebrow overview</a></li>
+          <li>• <a href="/lip-blush-poipet/" style="color:var(--text-muted);text-decoration:none" onmouseover="this.style.color='var(--gold)'" onmouseout="this.style.color='var(--text-muted)'">Lip blush</a></li>
           <li>• Dark lip correction</li>
-          <li>• <a href="/pmu-lip-blush-eyebrow-poipet/" style="color:var(--text-muted);text-decoration:none" onmouseover="this.style.color='var(--gold)'" onmouseout="this.style.color='var(--text-muted)'">Hairstroke eyebrow</a></li>
+          <li>• <a href="/eyebrow-pmu-poipet/" style="color:var(--text-muted);text-decoration:none" onmouseover="this.style.color='var(--gold)'" onmouseout="this.style.color='var(--text-muted)'">Hairstroke eyebrow PMU</a></li>
           <li>• <a href="/laser-tattoo-removal-poipet/" style="color:var(--text-muted);text-decoration:none" onmouseover="this.style.color='var(--gold)'" onmouseout="this.style.color='var(--text-muted)'">Tattoo removal</a></li>
         </ul>
         <a href="/pmu-lip-blush-eyebrow-poipet/" style="font-size:.78rem;color:var(--gold);text-decoration:none;letter-spacing:.06em">View details →</a>
@@ -224,6 +231,7 @@ require __DIR__ . '/../assets/partials/header.php';
         </div>
         <ul style="list-style:none;font-size:.83rem;color:var(--text-muted);line-height:2">
           <li>• <a href="/iv-whitening-poipet/" style="color:var(--text-muted);text-decoration:none" onmouseover="this.style.color='var(--gold)'" onmouseout="this.style.color='var(--text-muted)'">IV Whitening</a></li>
+          <li>• <a href="/skin-whitening-drip-poipet/" style="color:var(--text-muted);text-decoration:none" onmouseover="this.style.color='var(--gold)'" onmouseout="this.style.color='var(--text-muted)'">Skin whitening drip</a></li>
           <li>• Glutathione drip</li>
           <li>• Vitamin C drip</li>
           <li>• Recovery support</li>

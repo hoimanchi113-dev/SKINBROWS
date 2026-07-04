@@ -35,6 +35,8 @@ require __DIR__ . '/../assets/partials/header.php';
           ['Basic Skin Care',       '$30',   '/acne-treatment-poipet/'],
           ['Brightening Skin Care', '$48',   '/acne-treatment-poipet/'],
           ['Acne Peel',             '$50',   '/acne-treatment-poipet/'],
+          ['Acne Peel Treatment',   'Contact','/acne-peel-treatment-poipet/'],
+          ['Blackhead Treatment',   'Contact','/blackhead-treatment-poipet/'],
           ['Skin Treatment',        'Contact','/acne-treatment-poipet/'],
         ]
       ],
@@ -43,8 +45,11 @@ require __DIR__ . '/../assets/partials/header.php';
         'Pico laser, CO2 laser, RF microneedling and skin resurfacing.',
         [
           ['Pico Laser (full face)', '$72',  '/dark-spots-treatment-poipet/'],
+          ['Pico Laser Treatment',   'Contact','/pico-laser-treatment-poipet/'],
           ['CO2 Laser',              '$90',  '/acne-scar-treatment-poipet/'],
+          ['CO2 Laser Treatment',    'Contact','/co2-laser-treatment-poipet/'],
           ['RF Microneedling',       '$90',  '/pores-treatment-poipet/'],
+          ['RF Microneedling Treatment', 'Contact','/rf-microneedling-poipet/'],
           ['Meso / Skinbooster',     'Contact','/pores-treatment-poipet/'],
         ]
       ],
@@ -53,6 +58,7 @@ require __DIR__ . '/../assets/partials/header.php';
         'IV whitening, glutathione drip, vitamin C and wellness programs.',
         [
           ['IV Whitening',           '$55',  '/iv-whitening-poipet/'],
+          ['Skin Whitening Drip',    'Contact','/skin-whitening-drip-poipet/'],
           ['Glutathione Drip',       'Contact','/iv-whitening-poipet/'],
           ['Vitamin C IV',           'Contact','/iv-whitening-poipet/'],
         ]
@@ -63,9 +69,12 @@ require __DIR__ . '/../assets/partials/header.php';
         [
           ['Underarm Hair Removal',  '$15',  '/hair-removal-poipet/'],
           ['Leg Hair Removal',       'Contact','/hair-removal-poipet/'],
+          ['Face Hair Removal',      'Contact','/face-hair-removal-poipet/'],
           ['Laser Tattoo Removal',   'from $30','/laser-tattoo-removal-poipet/'],
-          ['Lip Blush (PMU)',        'Contact','/pmu-lip-blush-eyebrow-poipet/'],
-          ['Hairstroke Eyebrow',     'Contact','/pmu-lip-blush-eyebrow-poipet/'],
+          ['Lip Blush (PMU) — Overview', 'Contact','/pmu-lip-blush-eyebrow-poipet/'],
+          ['Lip Blush Treatment',    'Contact','/lip-blush-poipet/'],
+          ['Hairstroke Eyebrow — Overview', 'Contact','/pmu-lip-blush-eyebrow-poipet/'],
+          ['Eyebrow PMU Treatment',  'Contact','/eyebrow-pmu-poipet/'],
         ]
       ],
       [

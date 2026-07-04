@@ -36,8 +36,8 @@ require __DIR__ . '/../assets/partials/header.php';
       </div>
       <div>
         <span class="label" style="display:block;margin-bottom:12px">Treatment Video</span>
-        <a href="https://youtu.be/uyUcRMXXtSk" target="_blank" rel="noopener" style="display:block;text-decoration:none;border-radius:var(--radius);overflow:hidden;position:relative;background:var(--ink);margin-bottom:24px">
-          <img src="https://img.youtube.com/vi/uyUcRMXXtSk/hqdefault.jpg" alt="PMU, Lip Blush and Eyebrow in Poipet" referrerpolicy="no-referrer" style="width:100%;aspect-ratio:16/9;object-fit:cover;opacity:.75;display:block">
+        <a href="https://youtu.be/PBg8jD2ca3k" target="_blank" rel="noopener" style="display:block;text-decoration:none;border-radius:var(--radius);overflow:hidden;position:relative;background:var(--ink);margin-bottom:24px">
+          <img src="https://img.youtube.com/vi/PBg8jD2ca3k/hqdefault.jpg" alt="PMU, Lip Blush and Eyebrow in Poipet" referrerpolicy="no-referrer" style="width:100%;aspect-ratio:16/9;object-fit:cover;opacity:.75;display:block">
           <div style="position:absolute;inset:0;display:flex;align-items:center;justify-content:center">
             <div style="width:52px;height:52px;background:rgba(200,169,110,.9);border-radius:50%;display:flex;align-items:center;justify-content:center">
               <svg width="16" height="18" viewBox="0 0 14 16" fill="none"><path d="M1 1l12 7L1 15V1z" fill="#1C1208"/></svg>
