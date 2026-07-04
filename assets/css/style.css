@@ -434,3 +434,127 @@ p  { line-height: 1.7; }
 
 /* ── Referrer fix for ibb.co images ── */
 img[src*="ibb.co"] { /* handled via referrerpolicy attr */ }
+
+/* ── Blog article hero grid ── */
+.page-hero-grid { display: grid; grid-template-columns: 1.15fr .85fr; gap: 36px; }
+@media (max-width: 720px) {
+  .page-hero-grid { grid-template-columns: 1fr; }
+  .page-hero-grid > div:last-child { height: 200px !important; }
+}
+
+/* ── Blog article layout ── */
+.blog-layout { display: grid; grid-template-columns: 220px 1fr; gap: 44px; align-items: start; }
+.blog-toc {
+  position: sticky;
+  top: 76px;
+  background: #fff;
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 20px 18px;
+}
+.blog-toc-title {
+  font-size: .65rem;
+  letter-spacing: .18em;
+  text-transform: uppercase;
+  color: var(--gold);
+  font-weight: 500;
+  margin-bottom: 12px;
+}
+.blog-toc ul { list-style: none; display: flex; flex-direction: column; gap: 9px; }
+.blog-toc a { font-size: .78rem; color: var(--text-muted); text-decoration: none; line-height: 1.4; }
+.blog-toc a:hover { color: var(--gold); }
+
+.blog-content { min-width: 0; color: var(--ink); }
+.blog-content h2 { margin: 40px 0 14px; }
+.blog-content h2:first-child, .blog-content > div:first-child h2 { margin-top: 0; }
+.blog-content h3 { margin: 26px 0 10px; }
+.blog-content p { margin-bottom: 14px; }
+.blog-content ul, .blog-content ol { margin: 0 0 16px 20px; color: var(--text-muted); }
+.blog-content li { margin-bottom: 6px; line-height: 1.7; }
+.blog-content img { border-radius: var(--radius-sm); margin: 8px 0 20px; }
+
+.blog-meta { margin-bottom: 14px; }
+.blog-meta-tag {
+  display: inline-block;
+  background: rgba(200,169,110,.15);
+  color: var(--gold);
+  font-size: .68rem;
+  letter-spacing: .1em;
+  text-transform: uppercase;
+  padding: 5px 12px;
+  border-radius: 20px;
+}
+.blog-highlight {
+  background: var(--cream);
+  border-left: 3px solid var(--gold);
+  padding: 16px 20px;
+  border-radius: 0 var(--radius-sm) var(--radius-sm) 0;
+  margin: 18px 0;
+  font-size: .92rem;
+  line-height: 1.7;
+}
+
+@media (max-width: 900px) {
+  .blog-layout { grid-template-columns: 1fr; gap: 28px; }
+  .blog-toc { position: static; }
+}
+
+/* ── FAQ ── */
+.faq-item {
+  border: 1px solid var(--border);
+  border-radius: var(--radius-sm);
+  padding: 16px 18px;
+  margin-bottom: 10px;
+  background: #fff;
+}
+.faq-q {
+  font-weight: 500;
+  font-size: .92rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 10px;
+  color: var(--ink);
+}
+.faq-icon { color: var(--gold); font-family: var(--font-display); font-size: 1.15rem; flex-shrink: 0; }
+.faq-a { font-size: .85rem; color: var(--text-muted); line-height: 1.7; margin-top: 10px; }
+
+/* ── Related posts ── */
+.blog-related-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 16px; }
+.blog-related-card {
+  background: #fff;
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 18px;
+  text-decoration: none;
+  color: var(--ink);
+  display: block;
+  transition: box-shadow .2s, transform .2s;
+}
+.blog-related-card:hover { box-shadow: 0 4px 20px rgba(28,18,8,.08); transform: translateY(-1px); }
+@media (max-width: 720px) {
+  .blog-related-grid { grid-template-columns: 1fr; }
+}
+
+/* ── Mobile safety net for legacy inline grid layouts ──
+   Many pages set fixed grid-template-columns via inline style="".
+   These overrides collapse them on small screens without editing every page. */
+@media (max-width: 700px) {
+  [style*="grid-template-columns:repeat(4,1fr)"],
+  [style*="grid-template-columns: repeat(4,1fr)"],
+  [style*="grid-template-columns:repeat(4, 1fr)"] { grid-template-columns: repeat(2,1fr) !important; }
+
+  [style*="grid-template-columns:1fr 1fr"],
+  [style*="grid-template-columns: 1fr 1fr"],
+  [style*="grid-template-columns:repeat(3,1fr)"],
+  [style*="grid-template-columns: repeat(3,1fr)"],
+  [style*="grid-template-columns:repeat(2,1fr)"],
+  [style*="grid-template-columns: repeat(2,1fr)"] { grid-template-columns: 1fr !important; }
+}
+
+/* ── Sticky contact — respect iOS safe area ── */
+.sticky-contact { bottom: calc(20px + env(safe-area-inset-bottom, 0px)); }
+@media (max-width: 480px) {
+  .sticky-contact { right: 16px; gap: 8px; }
+  .sticky-btn { width: 44px; height: 44px; }
+}

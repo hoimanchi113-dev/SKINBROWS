@@ -4,7 +4,7 @@ $wa_link  = 'https://wa.me/85593970584';
 $tg_link  = 'https://t.me/diva_glow_poipet';
 $loc_link = 'https://maps.app.goo.gl/Jz2dQN2dV3jJvgbx9?g_st=ic';
 
-$site_url = 'https://divaskinclinic.online';
+$site_url = 'https://divaskinclinicpoipet.com';
 $site_name = 'DIVA Skin Clinic Poipet';
 
 // Defaults
